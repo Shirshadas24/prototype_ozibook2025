@@ -20,13 +20,11 @@ with st.form("project_form"):
 
     submitted = st.form_submit_button("Recommend ")
 
-# Only run when form is submitted
 if submitted:
     st.info("Based on the provided details, here is recommended team for your project.\n An alternate team is also suggested in case the first team is not available.")
 
     tech_stack = [tech.strip() for tech in tech_stack_input.split(",") if tech.strip()]
     
-    # Create the payload
     payload = {
         "project_domain": project_domain,
         "tech_stack": tech_stack,

@@ -1,65 +1,81 @@
 project_domain,tech_stack,delivery_time,project_complexity,client_rating,project_size,deadline_urgency,assigned_team,team_performance,team_workload
-healthcare,mysql;node,18,high,4.4,638,medium,Team A,4.1,1
-e-commerce,python;mysql;angular;django;mongo,22,medium,4.1,217,medium,Team D,4.3,9
-healthcare,spring;python,33,high,4.0,713,high,Team B,3.8,9
-education,django;node;python;java;spring,10,high,4.5,336,low,Team D,3.0,1
-education,node;django,42,medium,5.0,491,high,Team D,3.4,0
-e-commerce,react;mysql;mongo;django;spring,20,medium,4.1,460,medium,Team A,3.6,1
-finance,flask;mysql,30,low,4.1,117,medium,Team C,3.2,8
-education,django;mysql;mongo;flask,38,medium,4.5,149,low,Team A,4.1,1
-logistics,python;angular,52,high,3.6,780,high,Team C,3.2,2
-finance,flask;mysql;mongo,31,medium,3.6,599,high,Team D,3.4,0
-e-commerce,react;flask;spring,7,high,4.5,151,high,Team C,4.9,3
-e-commerce,spring;mongo;mysql;flask;python,20,medium,4.2,647,medium,Team C,3.4,4
-finance,django;angular,39,high,3.4,542,medium,Team A,4.3,6
-logistics,django;flask;angular,12,high,4.0,334,low,Team B,3.7,6
-logistics,django;mongo;node;java,34,high,5.0,540,high,Team C,3.4,10
-e-commerce,mysql;django,28,low,4.5,380,high,Team C,3.9,9
-e-commerce,django;mongo;mysql;python,14,low,3.5,781,medium,Team A,3.1,7
-e-commerce,angular;python;react,27,high,4.6,334,low,Team C,3.8,2
-healthcare,mysql;django,51,low,4.4,682,low,Team C,4.0,4
-education,mongo;python;django;react,12,low,3.9,865,high,Team C,4.3,3
-finance,python;spring;java,36,high,3.2,950,high,Team D,3.6,1
-healthcare,spring;flask;java;angular,45,low,4.4,110,low,Team C,4.7,2
-finance,django;python;node;spring,15,high,4.9,693,low,Team B,4.4,2
+finance,flask;spring,38,medium,4.1,583,medium,Team A,3.7,4
+e-commerce,angular;spring;flask,42,medium,4.9,700,medium,Team C,3.9,0
+logistics,node;docker,22,low,4.3,281,high,Team E,4.0,6
+finance,tensorflow;mysql,10,high,4.7,728,medium,Team D,3.2,0
 education,angular;mysql;mongo,50,medium,4.9,840,medium,Team A,3.5,8
+logistics,mongo;node,28,high,3.9,470,medium,Team B,4.4,3
+healthcare,spring;flask;java;angular,45,low,4.4,110,low,Team C,4.7,2
+e-commerce,flask;node,16,low,4.6,575,high,Team A,3.2,8
+finance,react;tensorflow;docker;django;aws,19,high,4.4,366,low,Team B,4.7,8
+e-commerce,flask;python,25,medium,4.4,329,low,Team B,4.9,4
+healthcare,mysql;node,18,high,4.4,638,medium,Team A,4.1,1
+social media,react;angular;java;python,21,low,3.9,220,high,Team J,4.0,4
+real estate,node;mysql,17,medium,4.0,318,medium,Team I,3.3,0
+social media,django;java;c++;mysql,22,medium,4.1,492,low,Team J,4.7,4
+manufacturing,node;java;react,34,low,3.9,179,medium,Team L,4.1,10
+social media,flask;angular,48,medium,3.1,382,low,Team I,4.9,7
+education,node;flask;spring;mongo;mysql,53,high,3.7,770,medium,Team D,4.5,10
+finance,python;java;django,41,medium,4.1,319,medium,Team B,4.6,2
+healthcare,django;angular,30,low,4.2,643,medium,Team D,3.2,9
+e-commerce,python;react;tensorflow;django;mongo,51,medium,4.6,460,high,Team A,4.2,0
+finance,node;mongo;mysql;react,45,low,3.4,786,high,Team A,4.9,10
+education,mongo;angular;python;java,43,low,4.2,604,medium,Team C,4.5,2
+finance,django;angular,39,high,3.4,542,medium,Team A,4.3,6
+gaming,python;react;mongo,37,high,4.3,384,low,Team L,4.3,7
+manufacturing,mysql;flask;c++;django,16,low,3.9,930,medium,Team I,4.0,2
+manufacturing,python;react,50,low,3.5,777,medium,Team L,4.2,6
+gaming,c++;react;java,28,high,4.4,514,high,Team J,4.7,2
+gaming,mongo;mysql,31,high,3.3,319,low,Team L,3.8,8
+e-commerce,spring;mongo;mysql;flask;python,20,medium,4.2,647,medium,Team C,3.4,4
+e-commerce,angular;python;react,27,high,4.6,334,low,Team C,3.8,2
+logistics,python;angular,52,high,3.6,780,high,Team C,3.2,2
+healthcare,mongo;spring;angular,30,low,4.8,919,low,Team B,4.9,5
+education,django;mysql;mongo;flask,38,medium,4.5,149,low,Team A,4.1,1
+logistics,java;django,55,high,4.1,181,medium,Team D,3.8,1
+education,react;spring,53,low,4.9,119,high,Team C,3.4,5
+healthcare,react;django;node;java,52,high,3.3,474,low,Team D,4.1,0
+education,flask;mysql;node;django,35,medium,4.9,637,low,Team B,3.4,1
+finance,flask;spring,9,high,4.1,211,low,Team A,4.4,7
+healthcare,mysql;django,51,low,4.4,682,low,Team C,4.0,4
+finance,python;spring;java,36,high,3.2,950,high,Team D,3.6,1
+logistics,flask;angular;node,10,medium,4.4,216,high,Team D,4.6,1
+logistics,django;flask;angular,12,high,4.0,334,low,Team B,3.7,6
+finance,flask;mysql;mongo,31,medium,3.6,599,high,Team D,3.4,0
+education,django;node;python;java;spring,10,high,4.5,336,low,Team D,3.0,1
+finance,django;python;node;spring,15,high,4.9,693,low,Team B,4.4,2
+e-commerce,react;mysql;mongo;django;spring,20,medium,4.1,460,medium,Team A,3.6,1
+e-commerce,django;mysql,28,low,4.5,380,high,Team C,3.9,9
+finance,flask;mysql,30,low,4.1,117,medium,Team C,3.2,8
+e-commerce,react;flask;spring,7,high,4.5,151,high,Team C,4.9,3
+logistics,django;mongo;node;java,34,high,5.0,540,high,Team C,3.4,10
+education,node;django,42,medium,5.0,491,high,Team D,3.4,0
 education,react;java;mysql,9,low,3.7,714,high,Team B,3.6,6
 finance,angular;java;python;mongo;react,59,low,3.8,838,high,Team C,3.3,1
-finance,node;mongo;mysql;react,45,low,3.4,786,high,Team A,4.9,10
-e-commerce,angular;spring;flask,42,medium,4.9,700,medium,Team C,3.9,0
-finance,flask;spring,38,medium,4.1,583,medium,Team A,3.7,4
-logistics,react;django;node;java,11,low,4.8,309,high,Team C,4.6,10
-logistics,java;django,55,high,4.1,181,medium,Team D,3.8,1
+education,mongo;python;django;react,12,low,3.9,865,high,Team C,4.3,3
+finance,react;spring;python;angular,37,medium,4.9,213,high,Team D,3.6,2
 healthcare,mysql;node,47,medium,4.9,374,medium,Team B,3.3,2
-logistics,mongo;python;django;mysql,8,medium,3.1,793,low,Team C,4.7,5
-e-commerce,flask;python,25,medium,4.4,329,low,Team B,4.9,4
-education,react;spring,53,low,4.9,119,high,Team C,3.4,5
-e-commerce,flask;spring,36,medium,3.5,585,medium,Team B,3.2,8
-healthcare,mongo;spring;angular,30,low,4.8,919,low,Team B,4.9,5
+e-commerce,django;mongo;mysql;python,14,low,3.5,781,medium,Team A,3.1,7
 education,mysql;flask;react,38,low,4.2,242,low,Team B,3.3,1
 healthcare,react;django;spring,51,low,4.8,783,high,Team B,4.0,9
+e-commerce,flask;spring,36,medium,3.5,585,medium,Team B,3.2,8
+e-commerce,python;mysql;angular;django;mongo,22,medium,4.1,217,medium,Team D,4.3,9
+healthcare,spring;python,33,high,4.0,713,high,Team B,3.8,9
 finance,java;angular;flask;mysql,39,medium,3.1,843,low,Team C,4.1,8
-logistics,react;mongo;django;node,37,medium,4.8,381,high,Team B,3.7,7
-e-commerce,python;react;mysql;angular,51,high,3.3,989,low,Team D,3.3,0
 e-commerce,mysql;react;angular;mongo,43,medium,3.7,219,low,Team D,4.0,2
+education,mysql;flask,54,medium,4.3,211,high,Team D,3.9,2
+logistics,mongo;python;django;mysql,8,medium,3.1,793,low,Team C,4.7,5
 finance,spring;flask;mongo;mysql,42,low,3.4,166,low,Team B,3.3,8
+logistics,react;mongo;django;node,37,medium,4.8,381,high,Team B,3.7,7
 logistics,django;mongo;java;angular;flask,9,medium,4.3,371,high,Team C,3.7,10
 education,spring;java;flask,22,medium,4.2,707,high,Team D,3.3,3
 logistics,react;mongo,17,medium,4.5,801,high,Team A,4.5,4
 e-commerce,flask;angular;node;mongo;python,50,high,4.9,153,low,Team C,4.5,7
-finance,react;spring;python;angular,37,medium,4.9,213,high,Team D,3.6,2
-education,mysql;flask,54,medium,4.3,211,high,Team D,3.9,2
-education,node;flask;spring;mongo;mysql,53,high,3.7,770,medium,Team D,4.5,10
 education,mysql;flask,18,high,4.2,705,medium,Team C,3.5,5
 finance,angular;node;react,33,low,3.4,380,high,Team A,3.9,5
-e-commerce,flask;node,16,low,4.6,575,high,Team A,3.2,8
-logistics,flask;angular;node,10,medium,4.4,216,high,Team D,4.6,1
-finance,mongo;django;spring;flask,18,medium,4.0,499,high,Team B,4.7,7
-finance,spring;flask,9,high,4.1,211,low,Team A,4.4,7
 logistics,spring;java;mongo,18,high,3.6,194,high,Team C,3.3,0
 education,node;react;mongo,18,low,3.5,782,high,Team D,3.6,4
 logistics,java;django;flask;mysql,13,high,4.9,532,low,Team A,4.4,0
-education,mongo;angular;python;java,43,low,4.2,604,medium,Team C,4.5,2
 e-commerce,mongo;angular;flask,25,medium,4.7,556,high,Team B,3.1,6
 finance,node;java;flask;mongo;react,41,medium,4.2,296,medium,Team D,4.0,10
 healthcare,mysql;spring;python,46,high,4.6,610,medium,Team A,4.7,2
@@ -91,8 +107,6 @@ healthcare,spring;mysql;python;angular,20,low,3.4,885,high,Team C,5.0,9
 education,react;flask,51,high,3.1,701,high,Team B,4.4,2
 healthcare,flask;spring;python;node,38,low,3.1,788,medium,Team C,3.6,9
 finance,node;java;python,46,low,4.2,370,low,Team B,4.9,2
-healthcare,django;angular,30,low,4.2,643,medium,Team D,3.2,9
-education,flask;mysql;node;django,35,medium,4.9,637,low,Team B,3.4,1
 finance,python;java,7,high,3.9,875,high,Team D,3.6,4
 logistics,python;react;spring,14,low,3.9,933,low,Team B,4.4,5
 finance,mysql;react,26,low,4.8,375,medium,Team B,4.8,3
@@ -116,7 +130,6 @@ finance,aws;react;mongo;node;django,39,medium,3.2,724,high,Team E,4.5,9
 finance,aws;mysql,53,high,3.2,508,low,Team B,3.7,2
 education,django;node;flask;react;python,56,medium,4.4,911,high,Team E,5.0,6
 e-commerce,tensorflow;docker;django,42,medium,3.0,366,high,Team D,5.0,0
-logistics,node;docker,22,low,4.3,281,high,Team E,4.0,6
 e-commerce,mongo;docker;react;mysql,73,medium,3.8,421,high,Team A,4.8,8
 education,python;flask,50,low,4.6,992,medium,Team E,4.7,4
 healthcare,mongo;mysql;node;tensorflow;docker,35,high,4.0,433,medium,Team C,4.0,6
@@ -162,6 +175,53 @@ e-commerce,python;react;tensorflow;django;mongo,51,medium,4.6,460,high,Team A,4.
 finance,flask;python;aws;django,86,high,4.3,777,medium,Team D,4.1,1
 finance,tensorflow;django;flask,65,low,4.2,395,high,Team A,4.7,3
 logistics,python;node;react;docker,35,high,4.3,180,high,Team C,3.0,9
+gaming,flask;react;mysql,25,medium,4.1,408,medium,Team I,4.4,2
+manufacturing,java;node;c++,41,high,4.3,698,medium,Team L,4.6,4
+social media,python;flask;mongo,33,low,4.0,465,low,Team J,4.2,1
+real estate,django;react,30,medium,4.1,420,medium,Team K,4.5,3
+gaming,angular;java,18,high,3.7,352,medium,Team L,4.3,2
+manufacturing,python;node,29,medium,3.9,508,high,Team I,4.1,5
+real estate,flask;django;mysql,36,high,4.0,623,low,Team K,4.2,3
+social media,java;node;mongo,31,medium,4.2,512,medium,Team J,4.4,4
+gaming,react;flask;c++,21,low,4.0,288,low,Team K,4.3,1
+manufacturing,python;flask;angular,38,medium,4.1,576,medium,Team I,4.4,3
+real estate,node;mysql;c++,44,high,3.8,732,high,Team L,4.2,6
+social media,java;flask;react,27,medium,4.0,446,low,Team I,4.5,2
+gaming,mysql;mongo;python,32,high,3.9,562,medium,Team J,4.1,3
+manufacturing,react;node;c++,24,medium,4.2,394,low,Team K,4.3,2
+real estate,django;angular;mongo,35,medium,4.1,498,medium,Team I,4.2,3
+gaming,java;django;react,28,medium,4.0,370,medium,Team L,4.4,1
+social media,flask;c++;angular,26,medium,3.7,432,high,Team J,4.3,4
+manufacturing,mongo;django;mysql,40,medium,4.0,680,low,Team K,4.2,5
+real estate,python;flask;node,39,low,3.9,542,medium,Team L,4.0,2
+gaming,react;mysql;django,23,medium,4.1,377,medium,Team I,4.3,0
+social media,java;mongo;c++,42,high,4.3,590,medium,Team K,4.5,3
+manufacturing,angular;flask,34,medium,4.2,526,low,Team J,4.1,1
+real estate,react;node,37,medium,4.0,480,medium,Team K,4.2,3
+gaming,python;flask;mysql,25,medium,4.0,416,medium,Team J,4.3,2
+manufacturing,django;mongo,43,high,4.1,706,medium,Team L,4.4,6
+social media,flask;java;c++,36,medium,3.8,488,high,Team K,4.2,2
+real estate,node;mysql;python,30,high,4.3,532,medium,Team J,4.6,4
+gaming,java;flask,22,medium,4.0,372,low,Team I,4.3,1
+manufacturing,react;django;angular,31,medium,4.1,514,medium,Team L,4.5,3
+social media,python;node;mongo,40,medium,4.2,540,high,Team I,4.3,2
+real estate,java;mongo;flask,28,medium,3.9,478,low,Team K,4.1,1
+gaming,c++;react;flask,20,high,4.0,348,medium,Team L,4.2,5
+manufacturing,django;mysql;java,39,medium,4.0,630,low,Team K,4.4,4
+social media,angular;node;python,34,low,4.1,494,medium,Team J,4.2,2
+real estate,flask;django;angular,32,medium,4.0,526,medium,Team I,4.3,3
+gaming,java;flask;c++,27,medium,4.1,406,low,Team K,4.1,1
+manufacturing,react;python;mongo,41,high,4.3,700,medium,Team J,4.6,5
+social media,django;node;mysql,26,medium,4.0,446,low,Team L,4.2,2
+real estate,node;c++;react,35,high,4.1,628,medium,Team J,4.4,4
+gaming,mysql;mongo;django,30,medium,3.9,470,medium,Team I,4.0,3
+manufacturing,python;flask;node,38,low,4.0,568,low,Team K,4.2,3
+social media,react;django;java,29,medium,4.1,504,medium,Team J,4.3,1
+real estate,java;node;flask,33,medium,4.0,500,medium,Team K,4.1,2
+gaming,angular;react;flask,19,medium,4.0,382,low,Team I,4.2,1
+manufacturing,mysql;flask;node,44,high,4.3,652,high,Team L,4.6,6
+social media,python;mongo;django,31,medium,4.0,516,medium,Team J,4.2,2
+real estate,django;flask;mongo,40,medium,4.1,602,medium,Team I,4.3,4
 healthcare,docker;aws,38,low,4.0,237,medium,Team C,4.3,5
 finance,flask;python,45,medium,3.7,380,high,Team D,4.3,0
 finance,node;mongo;react;mysql;flask,61,high,3.3,970,medium,Team C,3.8,0
@@ -289,7 +349,7 @@ real estate,android studio;firebase,180,high,3.4,754,low,Team A,3.4,10
 manufacturing,xcode;swift;core data,94,high,3.3,515,high,Team C,3.4,9
 education,django;angular,352,medium,3.7,506,high,Team G,5.0,9
 finance,postgresql;aws;rails;ruby,64,high,4.5,924,low,Team C,3.1,10
-healthcare,golang;react;kubernetes,139,medium,3.3,912,medium,Team H,3.1,3
+healthcare,golang;kubernetes,139,medium,3.3,912,medium,Team H,3.1,3
 social media,express;node,151,high,4.1,445,high,Team C,3.5,3
 education,laravel;firebase,185,low,3.6,58,medium,Team D,3.5,7
 travel,mongo;angular;mysql,127,medium,4.3,434,low,Team H,4.2,3
@@ -341,6 +401,36 @@ travel,kotlin;firebase,231,high,4.6,66,low,Team B,4.0,9
 healthcare,cassandra;react;kubernetes,330,medium,3.2,279,low,Team A,4.5,2
 education,golang;react,297,medium,4.3,507,high,Team E,3.9,10
 e-commerce,vue;node,296,high,4.9,718,low,Team C,3.3,5
+gaming,react;node;flask,27,medium,4.1,410,medium,Team I,4.2,2
+gaming,python;django;c++,32,high,4.3,490,high,Team J,4.4,3
+gaming,angular;flask;java,30,medium,4.0,445,medium,Team K,4.3,2
+gaming,mysql;node;django,25,low,4.2,370,low,Team L,4.5,1
+gaming,java;flask;mongo,34,high,4.1,510,high,Team I,4.1,4
+gaming,react;c++;node,29,medium,4.0,428,medium,Team J,4.2,3
+gaming,flask;python;angular,31,medium,4.2,440,medium,Team K,4.3,2
+gaming,django;react;mongo,28,low,4.0,398,low,Team L,4.4,1
+gaming,java;node;flask,35,high,4.3,560,high,Team K,4.6,5
+gaming,mysql;django;python,26,medium,4.1,420,medium,Team I,4.2,2
+gaming,react;mongo;node,33,high,4.0,515,high,Team L,4.3,4
+gaming,c++;flask;python,24,low,4.2,375,low,Team J,4.1,1
+gaming,node;angular;java,30,medium,4.0,430,medium,Team I,4.2,3
+gaming,django;flask;mysql,37,high,4.1,545,high,Team L,4.5,5
+gaming,react;java;python,29,medium,4.3,460,medium,Team K,4.4,3
+manufacturing,flask;django;mysql,36,medium,4.1,620,medium,Team J,4.3,4
+manufacturing,node;mongo;java,42,high,4.2,750,high,Team I,4.5,6
+manufacturing,react;flask;python,33,medium,4.0,610,medium,Team K,4.4,3
+manufacturing,django;angular;mysql,37,high,4.3,690,high,Team L,4.6,5
+manufacturing,python;node;java,34,medium,4.2,635,medium,Team I,4.3,4
+manufacturing,flask;mysql;mongo,40,high,4.1,710,high,Team J,4.4,6
+manufacturing,react;java;c++,35,medium,4.0,602,medium,Team K,4.2,3
+manufacturing,flask;python;node,39,high,4.2,725,high,Team L,4.5,5
+manufacturing,mysql;flask;django,38,medium,4.1,680,medium,Team I,4.3,4
+manufacturing,node;angular;mongo,41,high,4.2,740,high,Team J,4.6,6
+manufacturing,django;react;mysql,32,medium,4.0,600,medium,Team K,4.3,3
+manufacturing,python;c++;flask,43,high,4.1,765,high,Team L,4.4,7
+manufacturing,mongo;flask;react,36,medium,4.1,645,medium,Team I,4.2,3
+manufacturing,node;django;mysql,40,high,4.3,730,high,Team J,4.5,6
+manufacturing,java;flask;mongo,39,medium,4.0,690,medium,Team K,4.4,4
 logistics,node;vue;redis;mongodb;express,241,medium,4.4,885,low,Team A,3.9,3
 healthcare,django;mongo;mysql;angular,223,low,3.9,61,medium,Team G,3.2,6
 finance,rails;postgresql;ruby;aws,281,low,4.1,203,high,Team A,3.0,7
@@ -359,8 +449,6 @@ real estate,python;mongo;mysql;django,348,medium,4.5,524,high,Team C,4.0,4
 travel,sql;unreal,159,high,3.4,524,medium,Team D,4.5,2
 real estate,express;node;vue;redis,309,high,5.0,191,low,Team H,3.1,7
 real estate,firebase;android studio,37,low,3.1,799,medium,Team D,3.9,10
-Here are 100 more dummy rows, following the same format as your sample:
-
 logistics,angular;django;mysql,128,medium,3.6,369,low,Team E,4.9,1
 gaming,sqlserver;.net;angular;azure,164,low,4.5,486,high,Team D,4.1,8
 finance,express;redis;vue,78,high,3.4,605,high,Team A,3.3,5
@@ -479,85 +567,899 @@ gaming,firebase;android studio,338,high,3.8,765,low,Team E,3.5,5
 healthcare,mongodb;redis;node;express;vue,197,low,4.2,907,low,Team D,4.2,1
 education,sqlserver;.net,84,high,4.3,131,high,Team E,4.5,10
 travel,python;mysql;mongo,60,low,4.7,602,medium,Team E,3.1,5
-travel,firebase;android studio;kotlin,223,low,3.8,640,high,Team A,4.3,7
-education,php;laravel;jquery;firebase,192,medium,4.1,404,low,Team B,3.1,4
-manufacturing,xcode;swift,31,low,3.6,462,medium,Team E,4.4,3
-social media,sqlserver;.net;azure;angular,357,medium,4.1,217,medium,Team C,3.6,8
-social media,spring;kafka;react;java;postgresql,32,high,3.7,853,high,Team C,4.3,5
-e-commerce,unity;unreal,15,low,3.5,768,high,Team H,3.1,10
-e-commerce,.net;sqlserver,83,medium,3.8,926,medium,Team H,4.8,2
-healthcare,jquery;laravel;php,252,high,3.2,257,high,Team G,3.4,5
-finance,react;golang,273,high,3.0,305,low,Team C,3.6,2
-e-commerce,sqlserver;.net;angular,286,high,3.4,506,low,Team H,4.9,4
-education,laravel;php,348,high,4.1,672,low,Team D,3.5,3
-e-commerce,angular;mysql;mongo;python;django,69,high,3.6,749,high,Team D,3.8,3
-gaming,kubernetes;cassandra,40,high,4.8,475,high,Team B,4.0,8
-healthcare,swift;core data,285,medium,4.2,842,low,Team B,4.2,7
-social media,python;mysql,108,medium,3.6,496,low,Team F,4.8,7
-gaming,core data;xcode;swift,41,medium,3.6,875,high,Team C,3.5,5
-education,angular;sqlserver,177,high,4.0,895,high,Team D,4.0,6
-finance,kotlin;android studio,336,medium,4.9,524,high,Team G,4.3,9
-logistics,unity;sql;unreal;c#,350,high,4.5,910,high,Team D,4.8,8
-healthcare,aws;rails;postgresql;ruby,58,high,4.4,789,medium,Team B,4.6,9
-e-commerce,java;spring;react;kafka;postgresql,88,medium,3.0,786,low,Team H,4.2,2
-real estate,angular;.net;sqlserver;azure,206,medium,4.7,297,high,Team G,3.5,6
-logistics,golang;kubernetes;react;cassandra,33,high,4.9,114,medium,Team D,4.4,7
-finance,cassandra;react;golang,91,low,3.9,790,medium,Team C,3.9,7
-real estate,postgresql;ruby;aws;rails,285,low,4.3,450,low,Team E,3.3,2
-gaming,redis;express;vue,83,high,4.7,355,low,Team A,4.6,1
-education,sqlserver;angular;.net,30,medium,4.9,252,medium,Team C,3.8,5
-healthcare,aws;postgresql,320,medium,4.5,843,medium,Team B,3.4,3
-travel,django;angular;python,327,high,3.6,673,high,Team B,4.8,2
-education,xcode;swift;core data,266,low,3.3,158,medium,Team C,4.5,6
-gaming,mongodb;redis;node;express,146,high,4.3,851,high,Team G,4.3,6
-gaming,django;python;mongo;angular;mysql,147,medium,3.6,904,high,Team B,3.6,10
-real estate,xcode;swift;core data,289,medium,5.0,438,high,Team G,4.7,6
-gaming,python;django;angular,54,medium,3.2,601,medium,Team E,3.5,6
-finance,.net;angular;sqlserver,69,low,3.9,486,low,Team B,3.5,8
-logistics,c#;sql;unreal;unity,323,high,4.3,450,medium,Team A,3.2,10
-travel,jquery;php;firebase,178,low,3.7,940,low,Team D,4.9,6
-finance,firebase;android studio,76,low,3.5,675,high,Team A,3.7,8
-social media,core data;xcode;swift,87,low,3.5,942,high,Team E,4.6,3
-gaming,jquery;php,208,low,4.5,217,medium,Team G,4.3,10
-finance,jquery;php;firebase,248,low,4.5,963,medium,Team C,4.1,6
-travel,angular;django;mysql;python;mongo,261,low,4.7,619,low,Team A,3.9,8
-travel,unreal;c#,124,low,3.8,478,medium,Team E,3.3,5
-logistics,angular;mongo;python;django;mysql,334,high,4.3,486,high,Team H,4.2,8
-finance,firebase;android studio;kotlin,156,low,3.3,609,medium,Team H,3.0,3
-manufacturing,redis;mongodb;express;node,51,medium,3.4,190,low,Team B,3.2,4
-e-commerce,python;django,210,high,3.8,164,medium,Team G,4.1,3
-education,core data;swift,342,high,3.1,357,low,Team H,3.5,10
-travel,express;node,108,high,3.3,502,medium,Team C,3.1,9
-e-commerce,react;kubernetes,227,medium,4.5,581,medium,Team G,4.2,3
-education,firebase;android studio;kotlin,248,low,4.8,760,low,Team C,3.2,2
-manufacturing,xcode;core data,258,medium,4.8,72,low,Team D,4.9,7
-gaming,postgresql;aws;rails,261,low,3.8,988,medium,Team D,4.2,10
-education,sqlserver;azure,286,low,3.5,534,medium,Team F,4.2,7
-real estate,java;spring;kafka;react,46,low,3.7,855,high,Team G,3.0,10
-manufacturing,angular;python;mongo,16,high,4.8,251,high,Team C,4.2,8
-e-commerce,sql;unreal;unity;c#,179,low,3.5,617,high,Team F,3.7,2
-education,mongodb;node,88,medium,3.8,263,medium,Team G,3.1,6
-finance,xcode;core data,262,medium,4.6,990,low,Team B,4.3,2
-travel,react;java;kafka;postgresql,40,high,4.8,230,high,Team E,3.8,2
-real estate,unreal;unity;sql;c#,249,medium,3.4,317,high,Team H,3.6,1
-finance,mongo;mysql,211,medium,3.4,557,medium,Team G,3.8,2
-education,angular;.net;azure;sqlserver,317,medium,4.5,95,high,Team A,3.8,3
-healthcare,unity;unreal;c#;sql,205,low,3.7,967,high,Team E,3.9,5
-logistics,kafka;postgresql;spring;react,359,medium,4.2,860,high,Team H,3.6,4
-social media,spring;react;postgresql;kafka,46,high,5.0,586,high,Team C,3.4,3
-education,azure;sqlserver;.net,326,medium,4.1,624,low,Team E,4.1,4
-gaming,unity;unreal;sql,204,high,4.9,169,medium,Team G,4.1,6
-real estate,node;vue;redis,329,low,4.7,314,low,Team B,3.8,9
-real estate,react;cassandra;kubernetes;golang,152,medium,3.2,385,high,Team A,3.5,2
-gaming,golang;kubernetes;react;cassandra,325,low,4.2,570,medium,Team H,4.3,6
-real estate,php;firebase;jquery,88,high,4.6,537,high,Team A,4.6,7
-healthcare,core data;xcode,68,high,4.0,690,medium,Team F,4.1,8
-manufacturing,azure;sqlserver;.net;angular,111,low,4.8,170,high,Team C,3.1,5
-finance,postgresql;aws,257,medium,3.8,267,medium,Team E,4.5,10
-healthcare,sql;unreal,241,low,3.3,52,low,Team B,4.5,10
-travel,laravel;firebase;php;jquery,344,high,3.9,637,low,Team A,4.1,6
-travel,azure;sqlserver;.net;angular,184,medium,3.2,305,high,Team G,3.2,1
-e-commerce,vue;node;redis,27,high,3.6,813,high,Team H,3.6,9
-real estate,golang;cassandra;react;kubernetes,311,low,4.4,839,low,Team A,3.7,7
-education,postgresql;java,361,low,3.6,744,high,Team F,4.4,10
-travel,swift;xcode,217,medium,3.6,493,medium,Team C,3.4,1
+travel,firebase;android studio,297,high,3.9,760,low,Team D,3.6,6
+logistics,angular;django;mysql,155,low,3.5,390,high,Team F,4.8,2
+gaming,sqlserver;.net;angular;azure,180,medium,4.6,500,medium,Team C,4.0,7
+finance,express;redis;vue,90,low,3.3,620,low,Team B,3.2,6
+finance,android studio;kotlin;firebase,130,high,4.2,120,high,Team H,4.8,5
+real estate,.net;angular;sqlserver,350,low,4.1,360,medium,Team A,3.4,3
+education,jquery;laravel;firebase,30,high,4.0,130,medium,Team B,4.0,3
+travel,sqlserver;azure;.net,300,low,3.7,790,low,Team B,4.7,9
+travel,python;mysql;mongo;django;angular,370,medium,3.8,990,medium,Team G,3.6,7
+travel,react;java,220,high,4.8,350,low,Team B,3.3,5
+social media,azure;sqlserver;angular;.net,150,high,3.6,380,low,Team D,4.5,2
+finance,firebase;laravel;jquery,330,high,3.0,630,high,Team B,3.5,5
+real estate,rails;postgresql;aws,340,high,3.6,950,low,Team B,4.4,6
+finance,aws;ruby,310,high,3.8,680,high,Team E,3.3,3
+healthcare,rails;ruby;postgresql;aws,90,low,3.5,430,low,Team D,3.8,9
+e-commerce,sql;c#,110,low,3.1,910,medium,Team E,3.3,4
+finance,postgresql;aws,200,high,3.6,510,high,Team D,3.7,3
+e-commerce,sql;unity,140,high,4.1,530,high,Team F,4.4,5
+travel,django;mysql;python;mongo,40,high,3.7,190,high,Team F,3.4,5
+finance,swift;xcode,300,high,4.7,190,low,Team C,4.2,8
+real estate,xcode;core data;swift,200,low,3.1,320,medium,Team B,3.1,8
+gaming,node;redis;express,200,high,3.3,350,low,Team B,4.4,7
+manufacturing,firebase;jquery,370,low,4.7,940,high,Team E,4.6,7
+gaming,golang;kubernetes;cassandra;react,160,low,4.6,180,medium,Team G,4.7,4
+healthcare,ruby;aws;postgresql,270,low,3.1,450,low,Team E,4.5,8
+real estate,angular;.net;sqlserver,30,low,4.7,590,medium,Team F,3.6,4
+gaming,php;firebase,110,low,4.5,910,low,Team F,4.4,9
+logistics,android studio;firebase,160,low,3.7,250,low,Team C,4.5,5
+social media,swift;xcode;core data,220,high,3.1,110,high,Team F,3.8,8
+education,cassandra;golang;kubernetes,340,high,3.7,240,high,Team A,3.2,9
+travel,kotlin;android studio,360,high,5.0,950,low,Team C,3.6,3
+travel,jquery;laravel;firebase,250,low,5.0,900,low,Team A,4.1,8
+finance,redis;express;node,120,high,3.7,480,low,Team C,4.0,6
+real estate,kotlin;android studio,300,high,3.7,590,medium,Team A,3.1,8
+e-commerce,kafka;react;postgresql;spring,250,high,4.9,340,low,Team G,3.8,2
+real estate,firebase;jquery;php;laravel,210,low,3.3,430,low,Team A,3.9,2
+e-commerce,rails;postgresql;ruby;aws,340,high,3.1,90,high,Team G,3.1,8
+finance,ruby;rails,320,high,4.6,500,high,Team C,3.6,4
+travel,core data;swift,40,high,3.8,870,high,Team B,4.1,2
+gaming,express;mongodb;vue,130,low,3.5,910,medium,Team F,3.1,6
+travel,unity;unreal;c#;sql,250,high,4.5,600,low,Team B,4.0,2
+travel,vue;node;express;mongodb,210,high,4.7,100,low,Team B,4.8,6
+healthcare,spring;kafka;java;react;postgresql,250,low,4.1,330,high,Team D,4.4,7
+e-commerce,jquery;php;firebase,350,low,3.8,700,medium,Team G,4.3,6
+finance,azure;.net;sqlserver;angular,190,high,4.2,920,high,Team B,3.5,6
+travel,unreal;c#,260,high,3.1,530,low,Team F,4.3,5
+finance,node;express,320,high,4.9,1000,high,Team C,4.3,9
+e-commerce,c#;sql,320,high,4.9,340,high,Team E,4.7,6
+real estate,react;kubernetes;golang,170,low,3.7,710,low,Team G,3.1,3
+healthcare,aws;ruby,370,high,3.1,830,low,Team B,3.1,9
+manufacturing,unity;c#;sql,260,high,4.6,690,low,Team A,4.0,9
+finance,mongodb;express;redis,350,low,4.9,530,low,Team A,3.8,9
+manufacturing,golang;cassandra;kubernetes;react,170,low,3.9,820,high,Team F,3.3,6
+social media,react;cassandra,260,high,3.8,660,low,Team C,3.1,7
+healthcare,node;mongodb,300,high,4.0,230,high,Team C,3.7,5
+logistics,c#;unreal;unity;sql,140,high,4.7,620,low,Team F,4.3,3
+social media,swift;core data,90,low,4.4,90,high,Team E,4.6,7
+travel,unity;unreal;sql,340,high,4.8,820,high,Team F,4.5,5
+education,firebase;android studio;kotlin,40,high,3.4,830,low,Team F,4.5,9
+finance,golang;cassandra,230,low,3.4,980,high,Team F,3.4,9
+real estate,php;jquery;laravel;firebase,160,high,4.1,960,low,Team B,4.8,9
+gaming,react;golang;kubernetes;cassandra,230,low,3.7,1000,high,Team F,3.5,10
+travel,mysql;django;mongo,110,high,3.3,830,low,Team A,3.8,2
+logistics,sqlserver;.net,180,high,3.2,290,high,Team D,3.1,2
+logistics,postgresql;rails,350,high,4.7,760,medium,Team F,3.5,8
+e-commerce,redis;mongodb,250,high,4.0,490,low,Team D,3.9,3
+manufacturing,postgresql;kafka;spring;java;react,170,low,3.4,870,low,Team D,4.4,2
+travel,laravel;jquery;firebase,120,high,4.0,950,high,Team D,4.2,4
+logistics,redis;node,350,low,4.2,870,low,Team B,4.3,7
+real estate,xcode;swift;core data,310,high,4.8,350,high,Team F,3.0,7
+gaming,golang;cassandra;kubernetes,280,high,4.0,160,low,Team E,4.4,9
+travel,xcode;core data;swift,250,low,3.5,720,low,Team D,3.1,9
+manufacturing,mongo;python,280,high,3.7,900,high,Team D,4.9,8
+logistics,xcode;core data,120,high,4.0,770,high,Team C,3.1,2
+healthcare,vue;mongodb;redis;node;express,200,low,4.2,370,low,Team D,3.3,8
+healthcare,kafka;java;react,170,low,3.1,410,high,Team D,3.6,2
+travel,postgresql;aws,50,high,3.1,310,low,Team C,4.2,4
+logistics,unity;unreal;sql,60,low,3.3,940,high,Team F,3.6,9
+education,firebase;kotlin,220,high,4.7,60,high,Team A,4.6,9
+education,golang;kubernetes;react;cassandra,170,low,4.8,970,low,Team A,3.8,9
+education,unity;c#;unreal,110,high,3.8,750,high,Team A,4.3,8
+education,kotlin;firebase,130,high,4.9,980,low,Team F,4.1,2
+healthcare,xcode;core data;swift,230,low,3.7,140,high,Team G,4.2,5
+finance,rails;postgresql,270,low,3.0,550,low,Team A,4.7,7
+logistics,kafka;java;react;postgresql;spring,170,low,4.0,940,low,Team F,3.9,7
+e-commerce,cassandra;react,210,low,4.7,700,low,Team C,3.6,5
+social media,redis;node;vue;express;mongodb,230,high,3.3,850,high,Team C,3.2,4
+finance,android studio;kotlin;firebase,320,low,4.3,960,high,Team G,3.8,3
+e-commerce,unreal;c#,190,low,4.3,540,high,Team F,4.2,6
+finance,cassandra;kubernetes,300,low,3.8,460,low,Team H,4.6,2
+e-commerce,firebase;android studio,160,low,4.5,150,high,Team A,4.1,6
+education,xcode;core data;swift,250,low,4.4,190,high,Team D,4.3,6
+real estate,android studio;firebase,180,low,4.2,750,low,Team B,4.1,7
+manufacturing,swift;core data;xcode,350,high,3.1,880,high,Team C,4.3,6
+logistics,.net;azure;angular,70,low,3.4,790,high,Team C,3.7,6
+logistics,postgresql;java,160,low,3.3,190,low,Team E,3.4,3
+gaming,spring;java;postgresql;kafka,230,high,3.2,430,high,Team B,3.0,8
+real estate,laravel;php,90,low,3.8,600,low,Team A,4.0,9
+healthcare,azure;angular,360,high,3.8,970,low,Team A,4.6,7
+travel,golang;cassandra;react,170,high,4.2,410,low,Team B,3.0,6
+manufacturing,aws;ruby;rails,140,low,3.0,490,low,Team C,3.8,5
+finance,vue;redis;express;node;mongodb,170,high,3.8,780,low,Team D,4.3,4
+logistics,unity;c#;sql;unreal,30,high,3.4,940,low,Team C,3.3,5
+healthcare,python;mongo,210,low,4.1,460,low,Team F,3.4,9
+social media,firebase;android studio,140,high,4.5,370,high,Team A,4.5,7
+education,react;kafka;java,310,low,3.1,150,high,Team E,4.8,7
+travel,sqlserver;angular,250,high,3.7,360,high,Team E,4.6,3
+real estate,node;vue,140,low,4.8,550,low,Team D,3.6,8
+travel,mongo;angular;mysql;django;python,110,high,3.6,790,low,Team C,3.1,5
+social media,postgresql;spring;react,120,low,4.6,840,low,Team A,4.0,2
+e-commerce,.net;azure;sqlserver,290,low,3.8,910,high,Team C,3.5,10
+healthcare,jquery;firebase;laravel,350,high,3.8,580,high,Team F,4.8,2
+education,react;spring;postgresql,250,low,4.3,540,low,Team G,4.5,9
+finance,angular;sqlserver,90,low,4.0,990,low,Team B,4.5,9
+social media,sql;c#;unreal,280,high,3.8,310,high,Team F,3.3,3
+gaming,firebase;android studio,340,low,3.7,770,high,Team F,3.4,6
+healthcare,mongodb;redis;node;express;vue,200,high,4.1,910,high,Team E,4.1,2
+education,sqlserver;.net,90,low,4.2,140,low,Team F,4.4,9
+travel,python;mysql;mongo,70,high,4.6,610,high,Team F,3.0,4
+travel,firebase;android studio,300,low,3.8,770,high,Team E,3.5,5
+logistics,angular;django;mysql,160,high,3.6,400,medium,Team G,4.7,3
+gaming,sqlserver;.net;angular;azure,190,high,4.4,510,low,Team B,3.9,6
+finance,express;redis;vue,100,low,3.2,630,low,Team C,3.1,7
+finance,android studio;kotlin;firebase,140,low,4.0,130,low,Team A,4.7,4
+real estate,.net;angular;sqlserver,360,low,4.1,370,low,Team C,3.2,2
+education,jquery;laravel;firebase,40,low,3.8,140,low,Team C,3.8,2
+travel,sqlserver;azure;.net,310,low,3.7,780,low,Team C,4.6,8
+travel,python;mysql;mongo;django;angular,370,low,3.6,990,high,Team G,3.6,9
+travel,react;java,230,low,4.8,360,medium,Team C,3.3,4
+social media,azure;sqlserver;angular;.net,160,low,3.6,380,low,Team E,4.4,3
+finance,firebase;laravel;jquery,340,low,3.0,640,medium,Team C,3.5,7
+real estate,rails;postgresql;aws,350,low,3.4,960,low,Team C,4.3,4
+finance,aws;ruby,320,low,3.8,690,medium,Team F,3.2,1
+healthcare,rails;ruby;postgresql;aws,100,high,3.5,440,low,Team D,3.7,10
+e-commerce,sql;c#,120,high,3.1,920,high,Team E,3.3,2
+finance,postgresql;aws,200,low,3.4,520,high,Team D,3.7,5
+e-commerce,sql;unity,150,low,4.1,540,low,Team G,4.3,6
+travel,django;mysql;python;mongo,50,low,3.6,200,low,Team E,3.4,6
+finance,swift;xcode,310,low,4.7,200,medium,Team D,4.1,9
+real estate,xcode;core data;swift,210,high,3.0,330,high,Team C,3.1,7
+gaming,node;redis;express,210,low,3.2,360,low,Team C,4.3,5
+manufacturing,firebase;jquery,370,high,4.5,950,low,Team F,4.5,8
+gaming,golang;kubernetes;cassandra;react,170,high,4.6,190,medium,Team G,4.6,6
+healthcare,ruby;aws;postgresql,280,high,3.1,460,low,Team D,4.5,7
+real estate,angular;.net;sqlserver,40,high,4.5,600,high,Team H,3.6,5
+gaming,php;firebase,120,high,4.3,920,medium,Team H,4.3,10
+logistics,android studio;firebase,170,low,3.5,260,high,Team D,4.4,6
+social media,swift;xcode;core data,230,low,3.0,120,low,Team G,3.7,9
+education,cassandra;golang;kubernetes,350,low,3.5,250,medium,Team A,3.1,9
+travel,kotlin;android studio,370,low,4.8,960,medium,Team C,3.5,1
+travel,jquery;laravel;firebase,260,high,4.8,910,medium,Team A,4.0,9
+finance,redis;express;node,130,low,3.5,490,low,Team D,3.9,4
+real estate,kotlin;android studio,310,low,3.5,590,medium,Team A,3.0,8
+e-commerce,kafka;react;postgresql;spring,260,high,4.9,350,high,Team H,3.7,2
+real estate,firebase;jquery;php;laravel,220,low,3.1,440,low,Team B,3.8,1
+e-commerce,rails;postgresql;ruby;aws,350,low,3.0,100,high,Team H,3.1,6
+finance,ruby;rails,330,low,4.4,510,high,Team D,3.5,5
+travel,core data;swift,50,low,3.6,880,high,Team C,3.9,3
+gaming,express;mongodb;vue,140,low,3.3,920,medium,Team G,3.0,7
+travel,unity;unreal;c#;sql,260,low,4.3,610,high,Team C,3.9,4
+travel,vue;node;express;mongodb,220,low,4.5,110,low,Team C,4.7,5
+healthcare,spring;kafka;java;react;postgresql,260,high,3.9,340,medium,Team E,4.3,5
+e-commerce,jquery;php;firebase,360,low,3.6,710,high,Team G,4.2,7
+finance,azure;.net;sqlserver;angular,200,low,4.0,930,high,Team B,3.4,7
+travel,unreal;c#,270,low,3.0,540,low,Team G,4.2,3
+finance,node;express,330,low,4.9,1000,medium,Team C,4.2,10
+e-commerce,c#;sql,320,low,4.9,350,high,Team F,4.6,4
+real estate,react;kubernetes;golang,180,high,3.5,720,medium,Team G,3.0,5
+healthcare,aws;ruby,370,low,3.1,840,low,Team C,3.1,10
+manufacturing,unity;c#;sql,270,low,4.4,700,low,Team A,3.9,7
+finance,mongodb;express;redis,360,low,4.9,540,low,Team A,3.7,10
+manufacturing,golang;cassandra;kubernetes;react,180,low,3.7,830,low,Team G,3.3,7
+social media,react;cassandra,270,low,3.6,670,low,Team D,3.0,9
+healthcare,node;mongodb,310,low,4.0,240,low,Team D,3.6,3
+logistics,c#;unreal;unity;sql,150,low,4.7,630,low,Team G,4.2,4
+social media,swift;core data,100,high,4.2,100,high,Team F,4.5,9
+travel,unity;unreal;sql,350,high,4.8,830,low,Team G,4.4,6
+education,firebase;android studio;kotlin,50,high,3.2,840,high,Team F,4.4,10
+finance,golang;cassandra,240,high,3.4,990,medium,Team F,3.4,10
+real estate,php;jquery;laravel;firebase,170,high,3.9,970,low,Team B,4.7,9
+gaming,react;golang;kubernetes;cassandra,240,low,3.5,1000,low,Team F,3.5,10
+travel,mysql;django;mongo,120,low,3.3,840,low,Team A,3.8,3
+logistics,sqlserver;.net,180,low,3.2,300,high,Team D,3.1,1
+logistics,postgresql;rails,360,low,4.5,770,medium,Team G,3.5,10
+e-commerce,redis;mongodb,260,low,4.0,500,high,Team D,3.9,4
+manufacturing,postgresql;kafka;spring;java;react,180,high,3.4,880,high,Team D,4.3,3
+travel,laravel;jquery;firebase,130,high,4.0,960,medium,Team D,4.1,5
+logistics,redis;node,360,high,4.2,870,high,Team B,4.2,9
+real estate,xcode;swift;core data,320,low,4.8,360,medium,Team G,3.0,8
+gaming,golang;cassandra;kubernetes,290,low,4.0,170,medium,Team F,4.3,10
+travel,xcode;core data;swift,260,high,3.5,730,high,Team D,3.0,10
+manufacturing,mongo;python,290,low,3.7,910,low,Team D,4.7,9
+logistics,xcode;core data,130,low,4.0,780,low,Team C,3.0,4
+healthcare,vue;mongodb;redis;node;express,210,low,4.1,380,low,Team E,3.2,9
+healthcare,kafka;java;react,180,low,3.0,420,medium,Team E,3.5,3
+travel,postgresql;aws,60,low,3.1,320,medium,Team D,4.1,6
+logistics,unity;unreal;sql,70,low,3.3,950,medium,Team F,3.5,10
+education,firebase;kotlin,230,low,4.5,70,low,Team A,4.5,10
+education,golang;kubernetes;react;cassandra,180,high,4.8,980,low,Team A,3.7,10
+education,unity;c#;unreal,120,low,3.7,760,low,Team A,4.1,9
+education,kotlin;firebase,140,low,4.9,990,high,Team G,4.0,3
+healthcare,xcode;core data;swift,240,high,3.7,150,medium,Team F,4.1,6
+finance,rails;postgresql,280,high,3.0,560,medium,Team A,4.6,8
+logistics,kafka;java;react;postgresql;spring,180,high,4.0,950,medium,Team G,3.8,8
+gaming,flask;django;node,29,high,4.1,521,high,Team J,4.5,4
+manufacturing,java;mongo;react,36,medium,4.0,612,medium,Team K,4.3,5
+real estate,node;flask;mysql,33,medium,3.9,457,medium,Team L,4.2,3
+social media,python;django;c++,27,low,4.2,398,low,Team I,4.4,1
+gaming,react;node;java,30,medium,4.3,412,medium,Team L,4.1,2
+manufacturing,flask;angular;mongo,38,high,4.2,735,high,Team J,4.7,6
+real estate,django;mysql;python,34,medium,3.8,509,medium,Team I,4.0,2
+social media,java;react;mysql,25,low,4.1,374,low,Team K,4.3,0
+gaming,mysql;flask;python,31,medium,4.0,451,medium,Team I,4.2,2
+manufacturing,python;flask;java,44,high,4.4,795,high,Team L,4.6,7
+real estate,angular;react;node,36,medium,4.0,490,medium,Team J,4.3,3
+social media,django;flask;mongo,28,low,4.2,406,low,Team K,4.2,1
+gaming,python;c++;flask,22,high,3.9,341,high,Team K,4.1,3
+manufacturing,node;react;django,40,medium,4.1,682,medium,Team I,4.4,5
+real estate,java;flask;mysql,39,medium,4.3,578,medium,Team K,4.5,4
+social media,react;angular;c++,26,medium,4.0,387,low,Team L,4.3,2
+gaming,django;node;python,33,high,4.2,524,high,Team J,4.2,5
+manufacturing,mongo;mysql;flask,30,medium,3.9,612,medium,Team L,4.3,4
+real estate,node;flask;react,35,medium,4.1,470,medium,Team I,4.1,2
+social media,angular;mongo;java,29,low,4.0,392,low,Team J,4.4,1
+gaming,react;java;django,24,medium,3.8,410,low,Team I,4.2,1
+manufacturing,python;node;c++,37,high,4.3,720,high,Team J,4.5,6
+real estate,mysql;flask;node,41,medium,4.0,560,medium,Team L,4.4,4
+social media,flask;react;python,27,medium,4.2,435,medium,Team K,4.2,2
+gaming,c++;angular;node,32,high,4.0,500,high,Team K,4.3,4
+manufacturing,django;mongo;java,43,high,4.4,755,medium,Team L,4.7,7
+real estate,flask;node;mongo,31,medium,3.9,528,medium,Team I,4.0,3
+social media,java;mysql;django,26,low,4.1,368,low,Team J,4.3,0
+gaming,python;mongo;react,28,medium,4.2,438,medium,Team L,4.1,2
+manufacturing,node;flask;java,35,medium,4.0,640,medium,Team I,4.2,4
+real estate,react;django;flask,37,medium,4.3,515,medium,Team K,4.4,3
+social media,django;angular;mysql,33,high,4.1,562,high,Team J,4.5,5
+gaming,java;flask;c++,25,medium,4.0,405,medium,Team I,4.1,1
+manufacturing,python;flask;react,42,high,4.2,700,high,Team K,4.6,6
+real estate,mysql;flask;java,38,medium,3.8,488,medium,Team J,4.2,3
+social media,node;react;python,29,low,4.2,390,low,Team I,4.3,1
+gaming,angular;flask;java,34,medium,4.0,470,medium,Team L,4.2,3
+manufacturing,flask;node;c++,39,high,4.3,732,high,Team K,4.5,7
+real estate,python;flask;mongo,30,low,4.0,460,medium,Team L,4.1,2
+social media,django;mysql;java,27,medium,4.1,418,medium,Team I,4.4,2
+e-commerce,cassandra;react,220,high,4.7,710,low,Team D,3.5,6
+social media,redis;node;vue;express;mongodb,240,low,3.2,860,medium,Team D,3.1,5
+finance,android studio;kotlin;firebase,330,low,4.3,970,high,Team G,3.7,4
+e-commerce,unreal;c#,200,low,4.3,550,medium,Team G,4.1,7
+finance,cassandra;kubernetes,310,low,3.8,470,low,Team A,4.5,3
+e-commerce,firebase;android studio,170,low,4.5,160,medium,Team A,4.0,8
+education,xcode;core data;swift,260,low,4.4,200,medium,Team E,4.2,8
+real estate,android studio;firebase,190,low,4.2,760,low,Team B,4.0,9
+manufacturing,swift;core data;xcode,360,low,3.0,890,medium,Team D,4.2,8
+logistics,.net;azure;angular,80,low,3.4,800,medium,Team D,3.6,8
+logistics,postgresql;java,170,low,3.3,200,high,Team F,3.3,4
+gaming,spring;java;postgresql;kafka,240,low,3.0,440,low,Team C,3.0,10
+real estate,laravel;php,100,low,3.7,610,low,Team A,3.9,9
+healthcare,azure;angular,370,low,3.7,980,high,Team A,4.5,9
+travel,golang;cassandra;react,180,low,4.1,420,low,Team C,3.0,7
+manufacturing,aws;ruby;rails,150,low,3.0,500,low,Team D,3.7,6
+finance,vue;redis;express;node;mongodb,180,high,3.6,790,low,Team E,4.2,5
+logistics,unity;c#;sql;unreal,40,high,3.3,950,medium,Team D,3.2,7
+healthcare,python;mongo,220,low,4.1,470,low,Team G,3.3,10
+social media,firebase;android studio,150,low,4.3,380,low,Team B,4.4,10
+education,react;kafka;java,320,low,3.0,160,high,Team F,4.7,10
+travel,sqlserver;angular,260,low,3.7,370,medium,Team F,4.5,4
+real estate,node;vue,150,low,4.7,560,low,Team E,3.5,10
+travel,mongo;angular;mysql;django;python,120,low,3.6,800,medium,Team D,3.1,7
+social media,postgresql;spring;react,130,low,4.6,850,medium,Team B,4.0,4
+e-commerce,.net;azure;sqlserver,300,low,3.8,920,low,Team D,3.4,10
+healthcare,jquery;firebase;laravel,360,low,3.6,590,medium,Team H,4.7,3
+education,react;spring;postgresql,260,low,4.3,550,medium,Team A,4.4,10
+finance,angular;sqlserver,100,high,4.0,990,medium,Team C,4.4,10
+social media,sql;c#;unreal,290,low,3.6,320,medium,Team G,3.2,5
+gaming,firebase;android studio,350,high,3.7,780,medium,Team G,3.3,7
+healthcare,mongodb;redis;node;express;vue,210,high,4.0,920,medium,Team F,4.0,3
+education,sqlserver;.net,100,low,4.2,150,low,Team G,4.3,10
+travel,python;mysql;mongo,80,low,4.6,620,low,Team G,3.0,7
+travel,firebase;android studio,310,high,3.7,780,high,Team F,3.4,7
+logistics,angular;django;mysql,170,low,3.5,410,high,Team H,4.5,4
+gaming,sqlserver;.net;angular;azure,200,low,4.3,520,low,Team C,3.8,8
+finance,express;redis;vue,110,high,3.1,640,low,Team D,3.0,8
+finance,android studio;kotlin;firebase,150,high,4.0,140,medium,Team B,4.5,3
+real estate,.net;angular;sqlserver,370,high,4.0,380,high,Team D,3.1,1
+education,jquery;laravel;firebase,50,high,3.7,150,high,Team D,3.7,1
+travel,sqlserver;azure;.net,320,high,3.6,790,medium,Team D,4.5,9
+travel,python;mysql;mongo;django;angular,380,high,3.7,1000,low,Team H,3.5,10
+travel,react;java,240,high,4.7,370,high,Team D,3.2,3
+social media,azure;sqlserver;angular;.net,170,high,3.5,390,high,Team F,4.3,4
+finance,firebase;laravel;jquery,350,high,3.0,650,high,Team D,3.4,6
+real estate,rails;postgresql;aws,360,high,3.5,970,high,Team D,4.2,5
+finance,aws;ruby,330,high,3.7,700,medium,Team G,3.1,2
+healthcare,rails;ruby;postgresql;aws,110,low,3.4,450,low,Team E,3.6,9
+e-commerce,sql;c#,130,low,3.0,930,low,Team F,3.2,4
+finance,postgresql;aws,210,high,3.5,530,medium,Team E,3.6,6
+e-commerce,sql;unity,160,high,4.0,550,medium,Team H,4.1,5
+travel,django;mysql;python;mongo,60,high,3.5,210,medium,Team E,3.3,7
+finance,swift;xcode,320,high,4.6,210,high,Team E,4.0,8
+real estate,xcode;core data;swift,220,low,3.0,340,low,Team D,3.0,8
+gaming,node;redis;express,220,high,3.2,370,high,Team E,4.2,6
+manufacturing,firebase;jquery,380,low,4.4,960,medium,Team G,4.3,9
+gaming,golang;kubernetes;cassandra;react,180,high,4.5,200,high,Team H,4.4,7
+healthcare,ruby;aws;postgresql,290,high,3.0,470,medium,Team E,4.3,8
+real estate,angular;.net;sqlserver,50,low,4.5,610,medium,Team H,3.5,6
+gaming,php;firebase,130,low,4.2,930,medium,Team A,4.1,10
+logistics,android studio;firebase,180,high,3.4,270,medium,Team E,4.2,5
+social media,swift;xcode;core data,240,high,3.0,130,high,Team A,3.6,9
+education,cassandra;golang;kubernetes,360,high,3.5,260,low,Team B,3.0,10
+travel,kotlin;android studio,380,low,4.7,970,medium,Team D,3.5,2
+travel,jquery;laravel;firebase,270,low,4.7,920,low,Team B,3.9,10
+finance,redis;express;node,140,high,3.5,500,high,Team E,3.8,5
+real estate,kotlin;android studio,320,high,3.5,600,high,Team B,3.0,10
+e-commerce,kafka;react;postgresql;spring,270,low,4.8,360,medium,Team A,3.6,3
+real estate,firebase;jquery;php;laravel,230,high,3.0,450,high,Team C,3.6,2
+e-commerce,rails;postgresql;ruby;aws,360,low,3.0,110,low,Team A,3.0,7
+finance,ruby;rails,340,low,4.3,520,low,Team E,3.4,6
+travel,core data;swift,60,low,3.5,890,medium,Team D,3.8,4
+gaming,express;mongodb;vue,150,high,3.2,930,low,Team H,3.0,8
+travel,unity;unreal;c#;sql,270,high,4.2,620,low,Team D,3.8,5
+travel,vue;node;express;mongodb,230,high,4.4,120,high,Team D,4.5,6
+healthcare,spring;kafka;java;react;postgresql,270,low,3.8,350,high,Team F,4.1,6
+e-commerce,jquery;php;firebase,370,low,3.5,720,medium,Team H,4.0,8
+finance,azure;.net;sqlserver;angular,210,low,3.9,940,medium,Team C,3.2,8
+travel,unreal;c#,280,low,3.0,550,high,Team A,4.0,4
+finance,node;express,340,low,4.7,1000,high,Team D,4.0,10
+e-commerce,c#;sql,330,low,4.8,360,medium,Team H,4.4,5
+real estate,react;kubernetes;golang,190,low,3.4,730,low,Team H,3.0,6
+healthcare,aws;ruby,380,low,3.0,850,high,Team C,3.0,9
+manufacturing,unity;c#;sql,280,low,4.3,710,high,Team B,3.7,9
+finance,mongodb;express;redis,370,low,4.8,550,medium,Team B,3.5,10
+manufacturing,golang;cassandra;kubernetes;react,190,low,3.6,840,low,Team A,3.2,8
+social media,react;cassandra,280,high,3.5,680,low,Team E,3.0,10
+healthcare,node;mongodb,320,low,3.9,250,medium,Team E,3.4,4
+logistics,c#;unreal;unity;sql,160,low,4.6,640,low,Team A,4.0,5
+social media,swift;core data,110,high,4.0,110,low,Team H,4.3,10
+travel,unity;unreal;sql,360,high,4.7,840,low,Team A,4.2,7
+education,firebase;android studio;kotlin,60,high,3.1,850,low,Team H,4.2,10
+finance,golang;cassandra,250,high,3.3,1000,low,Team A,3.3,10
+real estate,php;jquery;laravel;firebase,180,high,3.8,980,high,Team C,4.5,10
+gaming,react;golang;kubernetes;cassandra,250,high,3.5,1000,low,Team A,3.5,10
+travel,mysql;django;mongo,130,high,3.2,850,medium,Team B,3.7,4
+logistics,sqlserver;.net,190,high,3.1,310,low,Team F,3.0,3
+logistics,postgresql;rails,370,high,4.4,780,low,Team A,3.4,10
+e-commerce,redis;mongodb,270,high,3.9,510,low,Team F,3.8,5
+manufacturing,postgresql;kafka;spring;java;react,190,low,3.3,890,medium,Team F,4.1,4
+travel,laravel;jquery;firebase,140,low,3.9,970,medium,Team F,3.9,6
+logistics,redis;node,370,low,4.0,880,low,Team C,4.0,9
+real estate,xcode;swift;core data,330,high,4.7,370,low,Team H,3.0,9
+gaming,golang;cassandra;kubernetes,300,high,3.9,180,high,Team A,4.1,10
+travel,xcode;core data;swift,270,low,3.3,740,low,Team F,3.0,10
+manufacturing,mongo;python,300,high,3.6,920,high,Team F,4.5,10
+logistics,xcode;core data,140,high,3.9,790,medium,Team E,3.0,5
+healthcare,vue;mongodb;redis;node;express,220,high,4.0,390,medium,Team G,3.0,10
+healthcare,kafka;java;react,190,high,3.0,430,low,Team G,3.3,4
+travel,postgresql;aws,70,high,3.0,330,low,Team F,3.9,7
+logistics,unity;unreal;sql,80,high,3.2,960,low,Team G,3.3,10
+education,firebase;kotlin,240,low,4.3,80,medium,Team H,4.3,10
+education,golang;kubernetes;react;cassandra,190,low,4.7,990,medium,Team B,3.5,10
+education,unity;c#;unreal,130,high,3.6,770,medium,Team B,3.9,9
+education,kotlin;firebase,150,high,4.8,1000,low,Team H,3.9,4
+healthcare,xcode;core data;swift,250,low,3.6,160,low,Team G,3.9,7
+finance,rails;postgresql,290,low,3.0,570,high,Team B,4.4,9
+logistics,kafka;java;react;postgresql;spring,190,low,3.9,960,low,Team H,3.6,9
+e-commerce,cassandra;react,230,low,4.6,720,medium,Team E,3.3,8
+social media,redis;node;vue;express;mongodb,250,high,3.0,870,high,Team E,3.0,6
+finance,android studio;kotlin;firebase,340,high,4.2,980,low,Team A,3.5,4
+e-commerce,unreal;c#,210,high,4.2,560,high,Team A,3.9,6
+finance,cassandra;kubernetes,320,high,3.7,480,high,Team B,4.3,4
+e-commerce,firebase;android studio,180,high,4.4,170,low,Team B,3.8,7
+education,xcode;core data;swift,270,high,4.3,210,high,Team F,4.0,7
+real estate,android studio;firebase,200,high,4.1,770,high,Team C,3.9,8
+manufacturing,swift;core data;xcode,370,high,3.0,900,high,Team E,4.0,7
+logistics,.net;azure;angular,90,high,3.3,810,low,Team E,3.5,9
+logistics,postgresql;java,180,high,3.2,210,low,Team H,3.1,5
+gaming,spring;java;postgresql;kafka,250,high,3.0,450,medium,Team D,3.0,10
+real estate,laravel;php,110,high,3.6,620,low,Team A,3.8,10
+healthcare,azure;angular,380,high,3.6,990,low,Team B,4.3,9
+travel,golang;cassandra;react,190,low,4.0,430,medium,Team D,3.0,8
+manufacturing,aws;ruby;rails,160,high,3.0,510,medium,Team E,3.7,7
+finance,vue;redis;express;node;mongodb,190,low,3.5,800,low,Team F,4.0,6
+logistics,unity;c#;sql;unreal,50,low,3.2,970,medium,Team E,3.1,8
+healthcare,python;mongo,230,low,4.0,480,low,Team A,3.1,10
+social media,firebase;android studio,160,low,4.2,390,medium,Team C,4.2,9
+education,react;kafka;java,330,low,3.0,170,medium,Team A,4.4,9
+travel,sqlserver;angular,270,high,3.6,380,high,Team A,4.3,5
+real estate,node;vue,160,high,4.6,570,low,Team F,3.5,9
+travel,mongo;angular;mysql;django;python,130,high,3.5,810,high,Team E,3.0,8
+social media,postgresql;spring;react,140,low,4.5,860,low,Team D,3.9,5
+e-commerce,.net;azure;sqlserver,310,high,3.7,930,medium,Team F,3.3,10
+healthcare,jquery;firebase;laravel,370,high,3.5,600,high,Team A,4.5,4
+education,react;spring;postgresql,270,high,4.2,560,high,Team H,4.1,10
+finance,angular;sqlserver,110,low,3.9,1000,medium,Team E,4.2,10
+social media,sql;c#;unreal,300,high,3.5,330,high,Team A,3.1,6
+gaming,firebase;android studio,360,low,3.6,790,low,Team A,3.1,8
+healthcare,mongodb;redis;node;express;vue,220,low,3.9,930,low,Team G,3.9,4
+education,sqlserver;.net,110,high,4.0,160,high,Team G,4.0,10
+travel,python;mysql;mongo,90,high,4.5,630,medium,Team G,3.0,6
+travel,firebase;android studio,320,low,3.6,790,low,Team G,3.3,6
+logistics,angular;django;mysql,180,low,3.4,420,low,Team A,4.4,5
+gaming,sqlserver;.net;angular;azure,210,low,4.2,530,medium,Team D,3.6,9
+finance,express;redis;vue,120,low,3.0,650,low,Team E,3.0,9
+finance,android studio;kotlin;firebase,160,low,3.9,150,high,Team C,4.3,2
+real estate,.net;angular;sqlserver,380,low,3.9,390,medium,Team E,3.0,3
+education,jquery;laravel;firebase,60,low,3.6,160,low,Team E,3.6,3
+travel,sqlserver;azure;.net,330,low,3.5,800,medium,Team E,4.3,8
+travel,python;mysql;mongo;django;angular,390,low,3.6,1000,high,Team A,3.4,10
+travel,react;java,250,low,4.6,380,low,Team E,3.0,5
+social media,azure;sqlserver;angular;.net,180,low,3.4,400,low,Team G,4.0,5
+finance,firebase;laravel;jquery,360,low,3.0,660,medium,Team E,3.3,8
+real estate,rails;postgresql;aws,370,low,3.3,980,medium,Team E,4.0,5
+finance,aws;ruby,340,low,3.6,710,high,Team H,3.0,4
+healthcare,rails;ruby;postgresql;aws,120,low,3.2,460,low,Team F,3.4,10
+e-commerce,sql;c#,140,low,3.0,940,medium,Team G,3.1,5
+finance,postgresql;aws,220,low,3.4,540,medium,Team F,3.5,7
+e-commerce,sql;unity,170,low,4.0,560,high,Team B,3.9,6
+travel,django;mysql;python;mongo,70,low,3.5,220,low,Team G,3.2,8
+finance,swift;xcode,330,low,4.5,220,medium,Team F,3.8,9
+real estate,xcode;core data;swift,230,high,3.0,350,low,Team E,3.0,9
+gaming,node;redis;express,230,low,3.1,380,medium,Team G,4.0,7
+manufacturing,firebase;jquery,390,low,4.3,970,medium,Team A,4.1,10
+gaming,golang;kubernetes;cassandra;react,190,low,4.4,210,low,Team A,4.0,8
+healthcare,ruby;aws;postgresql,300,low,3.0,480,low,Team F,4.1,9
+real estate,angular;.net;sqlserver,60,low,4.4,620,medium,Team G,3.4,7
+gaming,php;firebase,140,low,4.1,940,high,Team A,3.9,10
+logistics,android studio;firebase,190,low,3.3,280,low,Team G,4.0,7
+social media,swift;xcode;core data,250,low,3.0,140,medium,Team B,3.4,10
+education,cassandra;golang;kubernetes,370,low,3.4,270,high,Team C,3.0,10
+travel,kotlin;android studio,390,low,4.6,980,medium,Team F,3.3,3
+travel,jquery;laravel;firebase,280,low,4.6,930,medium,Team C,3.8,10
+finance,redis;express;node,150,low,3.4,510,low,Team G,3.6,6
+real estate,kotlin;android studio,330,low,3.4,610,medium,Team C,3.0,9
+e-commerce,kafka;react;postgresql;spring,280,low,4.7,370,high,Team B,3.5,4
+real estate,firebase;jquery;php;laravel,240,high,3.0,460,low,Team D,3.4,3
+e-commerce,rails;postgresql;ruby;aws,370,low,3.0,120,medium,Team D,3.0,6
+finance,ruby;rails,350,low,4.2,530,high,Team F,3.2,7
+travel,core data;swift,70,low,3.5,900,medium,Team E,3.6,5
+gaming,express;mongodb;vue,160,low,3.0,940,low,Team A,3.0,9
+travel,unity;unreal;c#;sql,280,low,4.1,630,medium,Team F,3.7,6
+travel,vue;node;express;mongodb,240,low,4.3,130,low,Team F,4.2,7
+healthcare,spring;kafka;java;react;postgresql,280,low,3.7,360,medium,Team G,3.9,8
+e-commerce,jquery;php;firebase,380,low,3.4,730,low,Team A,3.9,9
+finance,azure;.net;sqlserver;angular,220,low,3.8,950,medium,Team D,3.0,9
+travel,unreal;c#,290,low,3.0,560,low,Team G,3.8,5
+finance,node;express,350,low,4.6,1000,high,Team E,3.9,10
+e-commerce,c#;sql,340,low,4.7,370,low,Team A,4.1,6
+real estate,react;kubernetes;golang,200,low,3.3,740,medium,Team A,3.0,7
+healthcare,aws;ruby,390,low,3.0,860,medium,Team D,3.0,10
+manufacturing,unity;c#;sql,290,low,4.2,720,medium,Team C,3.5,10
+finance,mongodb;express;redis,380,low,4.7,560,high,Team C,3.4,10
+manufacturing,golang;cassandra;kubernetes;react,200,low,3.5,850,medium,Team B,3.1,9
+social media,react;cassandra,290,low,3.4,690,low,Team G,3.0,10
+healthcare,node;mongodb,330,low,3.8,260,low,Team F,3.2,5
+logistics,c#;unreal;unity;sql,170,low,4.5,650,low,Team B,3.8,6
+social media,swift;core data,120,low,3.9,120,high,Team A,4.0,10
+travel,unity;unreal;sql,370,low,4.6,850,medium,Team A,4.0,8
+education,firebase;android studio;kotlin,70,low,3.0,860,low,Team A,4.0,10
+finance,golang;cassandra,260,low,3.2,1000,low,Team B,3.2,10
+real estate,php;jquery;laravel;firebase,190,low,3.7,990,medium,Team D,4.3,10
+gaming,react;golang;kubernetes;cassandra,260,low,3.4,1000,low,Team B,3.4,10
+travel,mysql;django;mongo,140,low,3.1,860,low,Team C,3.6,5
+logistics,sqlserver;.net,200,low,3.0,320,medium,Team F,3.0,4
+logistics,postgresql;rails,380,low,4.3,790,medium,Team B,3.3,10
+e-commerce,redis;mongodb,280,low,3.8,520,high,Team F,3.6,6
+manufacturing,postgresql;kafka;spring;java;react,200,low,3.2,900,medium,Team F,3.9,5
+travel,laravel;jquery;firebase,150,low,3.8,980,medium,Team F,3.8,8
+logistics,redis;node,380,low,3.9,890,high,Team E,3.7,10
+real estate,xcode;swift;core data,340,low,4.5,380,medium,Team A,3.0,10
+gaming,golang;cassandra;kubernetes,310,low,3.8,190,low,Team C,3.9,10
+travel,xcode;core data;swift,280,low,3.2,750,medium,Team F,3.0,10
+manufacturing,mongo;python,310,low,3.5,930,low,Team F,4.3,10
+logistics,xcode;core data,150,low,3.8,800,low,Team D,3.0,6
+healthcare,vue;mongodb;redis;node;express,230,low,3.9,400,low,Team A,3.0,10
+healthcare,kafka;java;react,200,low,3.0,440,medium,Team G,3.1,6
+travel,postgresql;aws,80,low,3.0,340,low,Team G,3.7,8
+logistics,unity;unreal;sql,90,low,3.1,970,low,Team G,3.1,10
+education,firebase;kotlin,250,low,4.1,90,low,Team A,4.1,10
+education,golang;kubernetes;react;cassandra,200,low,4.6,1000,medium,Team C,3.3,10
+education,unity;c#;unreal,140,low,3.6,780,medium,Team C,3.6,10
+education,kotlin;firebase,160,low,4.7,1000,medium,Team A,3.7,5
+healthcare,xcode;core data;swift,260,low,3.5,170,low,Team G,3.8,8
+finance,rails;postgresql,300,low,3.0,580,medium,Team C,4.1,10
+logistics,kafka;java;react;postgresql;spring,200,low,3.8,970,low,Team A,3.3,10
+e-commerce,cassandra;react,240,low,4.5,730,low,Team G,3.0,10
+social media,redis;node;vue;express;mongodb,260,low,3.0,880,medium,Team G,3.0,8
+finance,android studio;kotlin;firebase,350,low,4.1,990,low,Team B,3.4,6
+e-commerce,unreal;c#,220,low,4.1,570,low,Team B,3.8,8
+finance,cassandra;kubernetes,330,low,3.6,490,low,Team D,4.0,5
+e-commerce,firebase;android studio,190,low,4.2,180,low,Team C,3.7,10
+education,xcode;core data;swift,280,low,4.1,220,low,Team G,3.8,8
+real estate,android studio;firebase,210,low,4.0,780,low,Team D,3.9,8
+manufacturing,swift;core data;xcode,380,low,3.0,910,low,Team F,4.0,8
+logistics,.net;azure;angular,100,low,3.2,820,low,Team G,3.3,10
+logistics,postgresql;java,190,low,3.2,220,low,Team A,3.0,6
+gaming,spring;java;postgresql;kafka,260,low,3.0,460,low,Team F,3.0,10
+real estate,laravel;php,120,low,3.5,630,low,Team B,3.6,10
+healthcare,azure;angular,390,low,3.5,1000,low,Team D,4.1,10
+travel,golang;cassandra;react,200,low,3.9,440,medium,Team E,3.0,10
+manufacturing,aws;ruby;rails,170,low,3.0,520,low,Team F,3.5,9
+finance,vue;redis;express;node;mongodb,200,low,3.4,810,low,Team G,3.9,8
+logistics,unity;c#;sql;unreal,60,low,3.1,980,low,Team F,3.0,10
+healthcare,python;mongo,240,low,3.9,490,low,Team B,3.0,10
+social media,firebase;android studio,170,low,4.1,400,low,Team E,4.1,10
+education,react;kafka;java,340,low,3.0,180,low,Team G,4.2,10
+travel,sqlserver;angular,280,low,3.5,390,low,Team G,4.1,6
+real estate,node;vue,170,low,4.5,580,low,Team H,3.4,10
+travel,mongo;angular;mysql;django;python,140,low,3.4,820,low,Team B,3.0,10
+social media,postgresql;spring;react,150,low,4.4,870,medium,Team F,3.8,7
+e-commerce,.net;azure;sqlserver,320,low,3.7,940,low,Team G,3.2,10
+healthcare,jquery;firebase;laravel,380,low,3.4,610,low,Team B,4.3,6
+education,react;spring;postgresql,280,low,4.1,570,low,Team A,4.1,10
+finance,angular;sqlserver,120,low,3.8,1000,medium,Team F,4.1,10
+social media,sql;c#;unreal,310,low,3.4,340,low,Team B,3.0,8
+gaming,firebase;android studio,370,low,3.6,800,medium,Team B,3.1,10
+healthcare,mongodb;redis;node;express;vue,230,low,3.8,940,low,Team H,3.8,6
+education,sqlserver;.net,120,low,4.0,170,low,Team H,4.0,10
+travel,python;mysql;mongo,100,low,4.4,640,low,Team H,3.0,8
+travel,firebase;android studio,330,low,3.5,800,low,Team H,3.1,8
+logistics,angular;django;mysql,190,low,3.3,430,low,Team B,3.9,7
+gaming,sqlserver;.net;angular;azure,220,low,4.1,540,medium,Team F,3.5,9
+finance,express;redis;vue,130,low,3.0,660,low,Team G,3.0,10
+finance,android studio;kotlin;firebase,170,low,3.8,160,low,Team D,3.8,4
+real estate,.net;angular;sqlserver,390,low,3.8,400,low,Team F,3.0,4
+education,jquery;laravel;firebase,70,low,3.5,170,low,Team G,3.5,4
+travel,sqlserver;azure;.net,340,low,3.4,810,low,Team G,4.0,10
+travel,python;mysql;mongo;django;angular,400,low,3.5,1000,medium,Team B,3.3,10
+travel,react;java,260,low,4.5,390,low,Team G,3.0,7
+social media,azure;sqlserver;angular;.net,190,low,3.3,410,low,Team A,3.9,8
+finance,firebase;laravel;jquery,370,low,3.0,670,low,Team G,3.1,10
+real estate,rails;postgresql;aws,380,low,3.2,990,low,Team G,3.8,6
+finance,aws;ruby,350,low,3.5,720,low,Team A,3.0,6
+healthcare,rails;ruby;postgresql;aws,130,low,3.1,470,low,Team H,3.3,10
+e-commerce,sql;c#,150,low,3.0,950,medium,Team H,3.0,7
+finance,postgresql;aws,230,low,3.3,550,low,Team G,3.4,9
+e-commerce,sql;unity,180,low,3.9,570,low,Team C,3.8,8
+travel,django;mysql;python;mongo,80,low,3.4,230,low,Team H,3.1,10
+finance,swift;xcode,340,low,4.4,230,low,Team G,3.7,10
+real estate,xcode;core data;swift,240,low,3.0,360,medium,Team G,3.0,9
+gaming,node;redis;express,240,low,3.0,390,low,Team A,3.8,8
+manufacturing,firebase;jquery,400,low,4.2,980,low,Team B,3.9,10
+gaming,golang;kubernetes;cassandra;react,200,low,4.3,220,low,Team B,3.9,10
+healthcare,ruby;aws;postgresql,310,low,3.0,490,low,Team A,4.0,10
+real estate,angular;.net;sqlserver,70,low,4.3,630,low,Team A,3.3,8
+gaming,php;firebase,150,low,4.0,950,medium,Team B,3.7,10
+logistics,android studio;firebase,200,low,3.2,290,low,Team A,3.7,10
+social media,swift;xcode;core data,260,low,3.0,150,low,Team C,3.1,10
+education,cassandra;golang;kubernetes,380,low,3.3,280,medium,Team D,3.0,10
+travel,kotlin;android studio,400,low,4.5,990,low,Team G,3.2,4
+travel,jquery;laravel;firebase,290,low,4.5,940,medium,Team D,3.6,10
+finance,redis;express;node,160,low,3.3,520,low,Team H,3.5,8
+real estate,kotlin;android studio,340,low,3.3,620,low,Team D,3.0,10
+e-commerce,kafka;react;postgresql;spring,290,low,4.6,380,low,Team C,3.4,5
+real estate,firebase;jquery;php;laravel,250,low,3.0,470,low,Team E,3.3,4
+e-commerce,rails;postgresql;ruby;aws,380,low,3.0,130,low,Team E,3.0,7
+finance,ruby;rails,360,low,4.1,540,low,Team G,3.1,8
+travel,core data;swift,80,low,3.4,910,low,Team G,3.5,6
+gaming,express;mongodb;vue,170,low,3.0,950,low,Team B,3.0,9
+travel,unity;unreal;c#;sql,290,low,4.0,640,low,Team G,3.6,7
+travel,vue;node;express;mongodb,250,low,4.2,140,low,Team G,4.0,8
+healthcare,spring;kafka;java;react;postgresql,290,low,3.6,370,low,Team A,3.7,8
+e-commerce,jquery;php;firebase,390,low,3.3,740,low,Team B,3.8,10
+finance,azure;.net;sqlserver;angular,230,low,3.7,960,low,Team F,3.0,10
+travel,unreal;c#,300,low,3.0,570,low,Team A,3.7,6
+finance,node;express,360,low,4.5,1000,medium,Team F,3.8,10
+e-commerce,c#;sql,350,low,4.6,380,low,Team C,3.9,7
+real estate,react;kubernetes;golang,210,low,3.2,750,low,Team B,3.0,8
+healthcare,aws;ruby,400,low,3.0,870,low,Team F,3.0,10
+manufacturing,unity;c#;sql,300,low,4.1,730,low,Team E,3.4,10
+finance,mongodb;express;redis,390,low,4.6,570,low,Team E,3.2,10
+manufacturing,golang;cassandra;kubernetes;react,210,low,3.4,860,low,Team D,3.0,10
+social media,react;cassandra,300,low,3.3,700,low,Team A,3.0,10
+healthcare,node;mongodb,340,low,3.7,270,low,Team A,3.0,7
+logistics,c#;unreal;unity;sql,180,low,4.4,660,low,Team A,3.7,8
+social media,swift;core data,130,low,3.8,130,low,Team D,3.9,10
+travel,unity;unreal;sql,380,low,4.5,860,low,Team B,3.8,10
+education,firebase;android studio;kotlin,80,low,3.0,870,low,Team B,3.8,10
+finance,golang;cassandra,270,low,3.1,1000,low,Team D,3.0,10
+real estate,php;jquery;laravel;firebase,200,low,3.6,1000,low,Team F,4.2,10
+gaming,react;golang;kubernetes;cassandra,270,low,3.3,1000,low,Team D,3.2,10
+travel,mysql;django;mongo,150,low,3.0,870,low,Team D,3.3,10
+logistics,sqlserver;.net,210,low,3.0,330,low,Team H,3.0,6
+logistics,postgresql;rails,390,low,4.2,800,low,Team D,3.1,10
+e-commerce,redis;mongodb,290,low,3.7,530,low,Team H,3.5,7
+manufacturing,postgresql;kafka;spring;java;react,210,low,3.1,910,low,Team H,3.8,6
+travel,laravel;jquery;firebase,160,low,3.7,990,low,Team H,3.7,9
+logistics,redis;node,390,low,3.8,900,low,Team E,3.6,10
+real estate,xcode;swift;core data,350,low,4.4,390,low,Team B,3.0,10
+gaming,golang;cassandra;kubernetes,320,low,3.7,200,low,Team E,3.8,10
+travel,xcode;core data;swift,290,low,3.1,760,low,Team H,3.0,10
+manufacturing,mongo;python,320,low,3.4,940,low,Team H,4.0,10
+logistics,xcode;core data,160,low,3.7,810,low,Team F,3.0,8
+healthcare,vue;mongodb;redis;node;express,240,low,3.8,410,low,Team B,3.0,10
+healthcare,kafka;java;react,210,low,3.0,450,low,Team G,3.0,8
+travel,postgresql;aws,90,low,3.0,350,low,Team G,3.5,10
+logistics,unity;unreal;sql,100,low,3.0,980,low,Team G,3.0,10
+education,firebase;kotlin,260,low,4.0,100,low,Team B,4.0,10
+education,golang;kubernetes;react;cassandra,210,low,4.5,1000,low,Team D,3.1,10
+education,unity;c#;unreal,150,low,3.5,790,low,Team D,3.5,10
+education,kotlin;firebase,170,low,4.6,1000,low,Team B,3.7,6
+healthcare,xcode;core data;swift,270,low,3.4,180,low,Team H,3.5,10
+finance,rails;postgresql,310,low,3.0,590,low,Team D,3.9,10
+logistics,kafka;java;react;postgresql;spring,210,low,3.7,980,low,Team B,3.2,10
+e-commerce,cassandra;react,250,low,4.4,740,low,Team H,3.0,10
+social media,redis;node;vue;express;mongodb,270,low,3.0,890,low,Team H,3.0,10
+finance,android studio;kotlin;firebase,360,low,4.0,990,low,Team D,3.3,8
+e-commerce,unreal;c#,230,low,4.0,580,low,Team D,3.6,8
+finance,cassandra;kubernetes,340,low,3.5,500,low,Team F,3.9,6
+e-commerce,firebase;android studio,200,low,4.1,190,low,Team E,3.6,10
+education,xcode;core data;swift,290,low,4.0,230,low,Team B,3.6,10
+real estate,android studio;firebase,220,low,3.9,790,low,Team E,3.8,10
+manufacturing,swift;core data;xcode,390,low,3.0,920,low,Team G,3.9,10
+logistics,.net;azure;angular,110,low,3.1,830,low,Team G,3.2,10
+logistics,postgresql;java,200,low,3.1,230,low,Team B,3.0,8
+gaming,spring;java;postgresql;kafka,270,low,3.0,470,low,Team H,3.0,10
+real estate,laravel;php,130,low,3.4,640,low,Team D,3.5,10
+healthcare,azure;angular,400,low,3.4,1000,low,Team E,3.9,10
+travel,golang;cassandra;react,210,low,3.8,450,low,Team H,3.0,10
+manufacturing,aws;ruby;rails,180,low,3.0,530,low,Team H,3.3,10
+finance,vue;redis;express;node;mongodb,210,low,3.3,820,low,Team A,3.8,10
+logistics,unity;c#;sql;unreal,70,low,3.0,990,low,Team H,3.0,10
+healthcare,python;mongo,250,low,3.8,500,low,Team F,3.0,10
+social media,firebase;android studio,180,low,4.0,410,low,Team G,4.0,10
+education,react;kafka;java,350,low,3.0,190,low,Team B,4.0,10
+travel,sqlserver;angular,290,low,3.4,400,low,Team A,4.0,6
+real estate,node;vue,180,low,4.4,590,low,Team A,3.3,10
+travel,mongo;angular;mysql;django;python,150,low,3.3,830,low,Team C,3.0,10
+social media,postgresql;spring;react,160,low,4.3,880,low,Team A,3.7,8
+e-commerce,.net;azure;sqlserver,330,low,3.6,950,low,Team I,3.1,10
+healthcare,jquery;firebase;laravel,390,low,3.3,620,low,Team J,4.0,6
+education,react;spring;postgresql,290,low,4.0,580,low,Team K,4.0,10
+finance,angular;sqlserver,130,low,3.7,1000,low,Team L,4.0,10
+travel,react;java,270,low,4.4,400,low,Team A,3.0,7
+social media,azure;sqlserver;angular;.net,200,low,3.2,420,low,Team B,3.9,8
+finance,firebase;laravel;jquery,380,low,3.0,680,low,Team C,3.1,10
+real estate,rails;postgresql;aws,390,low,3.1,1000,low,Team D,3.8,6
+finance,aws;ruby,360,low,3.4,730,low,Team E,3.0,8
+healthcare,rails;ruby;postgresql;aws,140,low,3.0,480,low,Team F,3.3,10
+e-commerce,sql;c#,160,low,3.0,960,low,Team G,3.0,9
+finance,postgresql;aws,240,low,3.2,560,low,Team H,3.4,9
+e-commerce,sql;unity,190,low,3.8,580,low,Team I,3.7,8
+travel,django;mysql;python;mongo,90,low,3.3,240,low,Team J,3.1,10
+finance,swift;xcode,350,low,4.3,240,low,Team K,3.7,10
+real estate,xcode;core data;swift,250,low,3.0,370,low,Team L,3.0,10
+real estate,firebase;jquery;php;laravel,260,low,3.0,480,low,Team A,3.2,5
+e-commerce,rails;postgresql;ruby;aws,390,low,3.0,140,low,Team B,3.0,8
+finance,ruby;rails,370,low,4.0,550,low,Team C,3.0,9
+travel,core data;swift,90,low,3.3,920,low,Team D,3.4,7
+gaming,express;mongodb;vue,180,low,3.0,960,low,Team E,3.0,10
+travel,unity;unreal;c#;sql,300,low,3.9,650,low,Team F,3.5,8
+travel,vue;node;express;mongodb,260,low,4.1,150,low,Team ,3.9,9
+healthcare,spring;kafka;java;react;postgresql,300,low,3.5,380,low,Team H,3.6,10
+e-commerce,jquery;php;firebase,400,low,3.2,750,low,Team I,3.7,10
+finance,azure;.net;sqlserver;angular,240,low,3.6,970,low,Team J,3.0,10
+travel,unreal;c#,310,low,3.0,580,low,Team K,3.6,7
+finance,node;express,370,low,4.4,1000,medium,Team L,3.7,10
+gaming,react;golang;kubernetes;cassandra,280,low,3.2,1000,low,Team A,3.2,10
+travel,mysql;django;mongo,160,low,3.0,880,low,Team B,3.2,10
+logistics,sqlserver;.net,220,low,3.0,340,low,Team C,3.0,7
+logistics,postgresql;rails,400,low,4.1,810,low,Team D,3.0,10
+e-commerce,redis;mongodb,300,low,3.6,540,low,Team E,3.4,8
+manufacturing,postgresql;kafka;spring;java;react,220,low,3.0,920,low,Team F,3.7,7
+travel,laravel;jquery;firebase,170,low,3.6,1000,low,Team G,3.6,10
+logistics,redis;node,400,low,3.7,910,low,Team H,3.5,10
+real estate,xcode;swift;core data,360,low,4.3,400,low,Team I,3.0,10
+gaming,golang;cassandra;kubernetes,330,low,3.6,200,low,Team J,3.7,10
+travel,xcode;core data;swift,300,low,3.0,770,low,Team K,3.0,10
+manufacturing,mongo;python,330,low,3.3,950,low,Team L,3.8,10
+finance,android studio;kotlin;firebase,370,low,3.9,1000,low,Team A,3.2,9
+e-commerce,unreal;c#,240,low,3.9,590,low,Team B,3.5,9
+finance,cassandra;kubernetes,350,low,3.4,510,low,Team C,3.8,7
+e-commerce,firebase;android studio,210,low,4.0,200,low,Team D,3.5,10
+education,xcode;core data;swift,300,low,3.9,240,low,Team E,3.5,10
+real estate,android studio;firebase,230,low,3.8,800,low,Team F,3.7,10
+manufacturing,swift;core data;xcode,400,low,3.0,930,low,Team G,3.9,10
+logistics,.net;azure;angular,120,low,3.0,840,low,Team H,3.0,10
+logistics,postgresql;java,210,low,3.0,240,low,Team I,3.0,9
+gaming,spring;java;postgresql;kafka,280,low,3.0,480,low,Team J,3.0,10
+real estate,laravel;php,140,low,3.3,650,low,Team K,3.4,10
+healthcare,azure;angular,410,low,3.3,1000,low,Team L,3.7,10
+finance,angular;sqlserver,140,low,3.6,1000,low,Team A,4.0,10
+social media,sql;c#;unreal,330,low,3.2,360,low,Team B,3.0,9
+gaming,firebase;android studio,390,low,3.4,820,low,Team C,3.0,10
+healthcare,mongodb;redis;node;express;vue,250,low,3.6,960,low,Team D,3.7,7
+education,sqlserver;.net,140,low,3.8,190,low,Team E,3.8,10
+travel,python;mysql;mongo,120,low,4.2,660,low,Team F,3.0,10
+travel,firebase;android studio,350,low,3.3,820,low,Team ,3.0,10
+logistics,angular;django;mysql,210,low,3.1,450,low,Team H,3.8,7
+gaming,sqlserver;.net;angular;azure,240,low,3.9,560,low,Team I,3.4,10
+finance,express;redis;vue,150,low,3.0,680,low,Team J,3.0,10
+finance,android studio;kotlin;firebase,190,low,3.6,180,low,Team K,3.7,5
+real estate,.net;angular;sqlserver,410,low,3.7,420,low,Team L,3.0,7
+real estate,xcode;core data;swift,260,low,3.0,380,low,Team A,3.0,10
+gaming,node;redis;express,260,low,3.0,410,low,Team B,3.8,10
+manufacturing,firebase;jquery,420,low,4.0,1000,low,Team C,3.8,10
+gaming,golang;kubernetes;cassandra;react,220,low,4.1,240,low,Team D,3.8,10
+healthcare,ruby;aws;postgresql,330,low,3.0,510,low,Team E,3.9,10
+real estate,angular;.net;sqlserver,90,low,4.1,650,low,Team F,3.2,10
+gaming,php;firebase,170,low,3.8,970,low,Team G,3.6,10
+logistics,android studio;firebase,220,low,3.0,310,low,Team H,3.6,10
+social media,swift;xcode;core data,280,low,3.0,170,low,Team I,3.0,10
+education,cassandra;golang;kubernetes,400,low,3.2,300,low,Team J,3.0,10
+travel,kotlin;android studio,420,low,4.3,1000,low,Team K,3.1,6
+travel,jquery;laravel;firebase,310,low,4.3,960,low,Team L,3.4,10
+finance,node;express,380,low,4.3,1000,low,Team A,3.5,10
+e-commerce,c#;sql,370,low,4.4,400,low,Team B,3.5,9
+real estate,react;kubernetes;golang,230,low,3.0,770,low,Team C,3.0,10
+healthcare,aws;ruby,420,low,3.0,890,low,Team D,3.0,10
+manufacturing,unity;c#;sql,320,low,3.9,750,low,Team E,3.1,10
+finance,mongodb;express;redis,410,low,4.4,590,low,Team F,3.0,10
+manufacturing,golang;cassandra;kubernetes;react,230,low,3.2,880,low,Team G,3.0,10
+social media,react;cassandra,320,low,3.2,720,low,Team H,3.0,10
+healthcare,node;mongodb,360,low,3.5,290,low,Team I,3.0,9
+logistics,c#;unreal;unity;sql,200,low,4.2,680,low,Team J,3.4,10
+social media,swift;core data,150,low,3.6,150,low,Team K,3.6,10
+travel,unity;unreal;sql,400,low,4.3,880,low,Team L,3.5,10
+manufacturing,mongo;python,340,low,3.2,960,low,Team A,3.6,10
+logistics,xcode;core data,180,low,3.5,830,low,Team B,3.0,10
+healthcare,vue;mongodb;redis;node;express,260,low,3.6,430,low,Team C,3.0,10
+healthcare,kafka;java;react,230,low,3.0,470,low,Team D,3.0,10
+travel,postgresql;aws,110,low,3.0,370,low,Team E,3.3,10
+logistics,unity;unreal;sql,120,low,3.0,1000,low,Team F,3.0,10
+education,firebase;kotlin,280,low,3.8,120,low,Team ,3.8,10
+education,golang;kubernetes;react;cassandra,230,high,4.3,980,low,Team N,3.0,10
+finance,react;flask;postgres,33,medium,4.2,540,medium,Team F,4.1,4
+education,node;vue;mongo,26,low,3.8,360,low,Team G,3.9,5
+healthcare,django;docker;mysql,48,high,4.7,820,high,Team H,4.6,2
+logistics,angular;react;aws,35,medium,4.0,530,medium,Team F,4.2,3
+e-commerce,mongo;node;flask,22,low,3.7,300,medium,Team G,3.8,6
+finance,vue;flask;aws,40,medium,4.4,610,high,Team H,4.5,2
+education,react;mongo;docker,28,low,4.1,380,low,Team A,4.0,3
+healthcare,django;mysql;postgres,46,high,4.6,780,high,Team B,4.4,2
+logistics,angular;vue;node,32,medium,3.9,500,medium,Team C,3.9,4
+e-commerce,node;flask;mysql,20,low,4.0,310,low,Team D,4.1,5
+finance,react;vue;mongo,38,high,4.5,720,high,Team E,4.6,3
+education,flask;docker;aws,27,medium,4.2,390,medium,Team F,4.1,2
+healthcare,django;react;mongo,41,high,4.8,850,high,Team G,4.7,1
+logistics,node;angular;mysql,30,medium,4.0,520,medium,Team H,4.0,4
+e-commerce,vue;flask;postgres,23,low,3.9,330,low,Team A,3.8,5
+finance,react;docker;aws,44,high,4.9,900,high,Team B,4.9,1
+education,django;vue;mongo,29,low,4.1,400,medium,Team C,4.2,3
+healthcare,flask;mysql;node,50,high,4.7,870,high,Team D,4.8,2
+logistics,angular;react;docker,34,medium,4.1,570,medium,Team E,4.0,4
+e-commerce,vue;mongo;aws,25,low,3.7,320,low,Team F,3.9,6
+e-commerce,kubernetes;cassandra,360,medium,4.9,179,low,Team B,3.7,9
+real estate,firebase;kotlin;android studio,364,low,4.1,470,high,Team G,4.4,1
+e-commerce,kafka;postgresql;spring;react,84,low,3.8,388,low,Team H,3.3,1
+healthcare,angular;mongo;python,117,low,3.1,750,medium,Team B,3.8,4
+logistics,java;spring;kafka;postgresql;react,199,high,3.6,976,medium,Team B,4.9,2
+gaming,firebase;kotlin,165,high,3.1,381,high,Team E,3.5,2
+social media,php;firebase,301,low,4.2,52,low,Team E,4.6,10
+logistics,angular;.net;sqlserver,165,medium,4.7,576,high,Team H,4.4,1
+travel,xcode;core data;swift,23,high,4.4,803,low,Team B,3.1,2
+finance,kubernetes;cassandra;golang,49,low,3.8,628,low,Team G,4.9,2
+finance,unity;unreal;sql,156,medium,3.4,767,medium,Team F,3.6,7
+e-commerce,aws;rails;postgresql;ruby,217,medium,4.7,734,medium,Team A,3.8,4
+e-commerce,c#;sql;unreal,102,medium,4.6,448,low,Team D,3.6,1
+real estate,mysql;python,60,high,3.3,597,medium,Team H,4.3,5
+manufacturing,c#;unity;unreal;sql,54,medium,3.5,899,low,Team G,3.0,9
+healthcare,php;laravel;firebase;jquery,141,high,3.0,787,high,Team G,3.1,6
+logistics,swift;core data,57,low,4.1,707,low,Team H,4.3,4
+healthcare,vue;mongodb;express;redis,160,low,3.3,271,high,Team E,3.1,7
+education,express;mongodb;redis,16,low,3.4,439,low,Team F,4.2,2
+manufacturing,php;firebase;jquery;laravel,20,low,4.9,110,low,Team C,4.3,7
+real estate,mysql;mongo;angular;django,199,low,3.9,307,high,Team E,4.3,10
+logistics,core data;xcode;swift,186,low,4.0,908,medium,Team C,4.7,7
+gaming,android studio;firebase,127,high,3.3,187,low,Team F,3.6,7
+travel,aws;rails,183,medium,3.7,153,high,Team A,4.1,8
+gaming,firebase;kotlin;android studio,60,medium,3.6,261,medium,Team E,4.1,8
+finance,cassandra;react;golang,326,high,3.6,661,medium,Team E,3.3,1
+real estate,android studio;firebase,180,high,3.4,754,low,Team A,3.4,10
+manufacturing,xcode;swift;core data,94,high,3.3,515,high,Team C,3.4,9
+education,django;angular,352,medium,3.7,506,high,Team G,5.0,9
+finance,postgresql;aws;rails;ruby,64,high,4.5,924,low,Team C,3.1,10
+healthcare,golang;kubernetes,139,medium,3.3,912,medium,Team H,3.1,3
+social media,express;node,151,high,4.1,445,high,Team C,3.5,3
+education,laravel;firebase,185,low,3.6,58,medium,Team D,3.5,7
+travel,mongo;angular;mysql,127,medium,4.3,434,low,Team H,4.2,3
+real estate,android studio;kotlin;firebase,258,high,4.5,357,medium,Team E,3.1,9
+logistics,django;mongo;python;mysql;angular,302,medium,4.1,669,medium,Team D,4.0,9
+e-commerce,kafka;spring;postgresql,354,low,3.6,352,high,Team G,4.6,1
+travel,kubernetes;cassandra;golang;react,336,medium,3.8,988,low,Team E,3.8,6
+e-commerce,xcode;swift,263,medium,4.8,667,high,Team H,3.5,9
+e-commerce,jquery;php;laravel,132,low,4.0,994,high,Team H,4.9,6
+social media,node;vue;mongodb;redis,275,high,4.9,496,medium,Team E,3.3,9
+real estate,java;react;spring,249,low,3.4,776,medium,Team H,3.3,7
+healthcare,aws;postgresql;rails;ruby,110,high,3.2,640,medium,Team F,3.6,9
+real estate,azure;.net;sqlserver;angular,305,low,4.1,744,low,Team A,3.7,10
+e-commerce,sql;unity,319,low,3.3,758,medium,Team D,3.9,6
+social media,spring;postgresql;react,275,low,4.7,688,medium,Team A,3.5,10
+education,postgresql;aws;ruby,320,low,3.0,172,low,Team A,4.5,9
+gaming,php;firebase;jquery,227,low,3.7,225,low,Team H,4.5,3
+travel,core data;swift;xcode,116,low,4.5,417,medium,Team F,4.4,8
+logistics,python;angular;mysql;django;mongo,271,high,3.4,59,medium,Team F,4.2,1
+e-commerce,kubernetes;react;cassandra,287,medium,3.7,788,medium,Team C,4.3,2
+healthcare,mysql;mongo;python;django,292,medium,4.9,654,medium,Team C,4.3,9
+travel,sqlserver;azure,26,high,4.4,759,medium,Team C,3.1,5
+travel,azure;sqlserver;angular,230,high,3.4,329,low,Team F,3.6,5
+manufacturing,kotlin;android studio;firebase,328,high,4.4,907,high,Team D,4.5,3
+manufacturing,kotlin;android studio;firebase,142,high,4.3,388,medium,Team E,5.0,10
+manufacturing,swift;xcode;core data,255,high,4.0,261,low,Team E,4.5,6
+education,azure;sqlserver,299,low,3.2,393,high,Team B,3.4,6
+healthcare,golang;kubernetes,118,medium,4.6,66,high,Team G,4.6,5
+gaming,kotlin;firebase,283,low,3.8,426,low,Team B,3.3,2
+logistics,rails;postgresql,363,medium,3.4,628,low,Team B,3.4,10
+healthcare,firebase;php;jquery;laravel,265,high,4.2,756,medium,Team B,3.9,1
+social media,xcode;swift,216,low,4.3,709,high,Team A,3.3,9
+real estate,jquery;php;laravel;firebase,212,low,3.8,643,low,Team D,4.4,7
+social media,azure;angular;.net;sqlserver,294,high,3.9,919,low,Team A,3.8,8
+manufacturing,jquery;firebase,272,low,3.2,863,high,Team C,5.0,4
+finance,.net;angular;sqlserver;azure,341,high,3.0,674,medium,Team H,3.5,2
+manufacturing,mongo;django;mysql;angular;python,127,medium,3.9,750,medium,Team D,3.3,6
+healthcare,core data;swift,270,high,3.4,533,low,Team B,4.6,5
+education,laravel;jquery;firebase,90,low,3.2,117,low,Team F,3.9,3
+manufacturing,vue;mongodb;express,102,low,5.0,598,high,Team A,4.2,7
+e-commerce,aws;rails,66,medium,4.4,862,medium,Team H,4.7,9
+real estate,android studio;kotlin;firebase,227,medium,3.6,967,high,Team D,4.8,2
+real estate,golang;react;kubernetes,344,medium,3.7,239,medium,Team B,3.8,2
+healthcare,core data;swift;xcode,122,low,4.0,658,medium,Team A,3.5,3
+social media,c#;unreal;sql,135,high,4.4,544,high,Team D,4.7,9
+travel,.net;azure;angular;sqlserver,325,medium,4.7,165,low,Team A,4.3,9
+finance,kotlin;firebase,241,high,3.6,630,high,Team F,4.1,5
+travel,kotlin;firebase,231,high,4.6,66,low,Team B,4.0,9
+healthcare,cassandra;react;kubernetes,330,medium,3.2,279,low,Team A,4.5,2
+finance,java;springboot,25,medium,4.2,550,medium,Team I,4.3,3
+social media,react;firebase,20,low,4.0,410,low,Team I,3.9,2
+e-commerce,node;express,21,medium,4.1,480,medium,Team I,4.0,3
+travel,html;css;js,17,low,4.2,340,low,Team I,3.8,1
+education,python;flask,31,medium,4.0,590,medium,Team I,4.1,3
+manufacturing,c#;sql,28,medium,4.0,610,medium,Team I,4.0,3
+gaming,c++;opengl,39,high,4.5,870,high,Team I,4.7,5
+logistics,java;hibernate,30,high,4.3,780,high,Team I,4.4,4
+healthcare,sql;tableau,26,medium,4.1,620,medium,Team I,4.2,3
+e-commerce,javascript;react,20,low,4.0,350,low,Team I,3.8,2
+finance,python;ml,28,medium,4.4,540,medium,Team I,4.2,3
+travel,nodejs;mongo,23,medium,4.1,500,medium,Team I,4.0,3
+education,r;shiny,31,medium,4.0,580,medium,Team I,4.1,3
+social media,node;mongo;socketio,22,medium,4.3,490,medium,Team I,4.2,3
+gaming,unity;blender,36,high,4.6,800,high,Team I,4.6,4
+manufacturing,c++;mysql,35,medium,4.1,630,medium,Team I,4.2,3
+manufacturing,flask;django;mysql,36,medium,4.1,620,medium,Team J,4.3,4
+gaming,unity;c#;blender,40,high,4.6,830,high,Team J,4.7,5
+e-commerce,react;node;mongo,22,medium,4.0,470,medium,Team J,4.0,3
+healthcare,python;sql,28,high,4.4,710,high,Team J,4.5,4
+finance,r;tableau,26,medium,4.0,550,medium,Team J,4.1,3
+education,java;springboot,30,medium,4.2,600,medium,Team J,4.2,3
+travel,html;css,18,low,3.9,390,low,Team J,3.7,2
+logistics,node;express;mysql,31,medium,4.1,620,medium,Team J,4.1,3
+social media,react;firebase,20,low,4.1,430,low,Team J,3.9,2
+gaming,c++;opengl,37,high,4.7,790,high,Team J,4.6,5
+manufacturing,sql;powerbi,32,medium,4.0,610,medium,Team J,4.1,3
+finance,python;dash,25,low,3.9,480,low,Team J,4.0,2
+education,golang;react,297,medium,4.3,507,high,Team E,3.9,10
+e-commerce,vue;node,296,high,4.9,718,low,Team C,3.3,5
+logistics,node;vue;redis;mongodb;express,241,medium,4.4,885,low,Team A,3.9,3
+healthcare,django;mongo;mysql;angular,223,low,3.9,61,medium,Team G,3.2,6
+finance,rails;postgresql;ruby;aws,281,low,4.1,203,high,Team A,3.0,7
+real estate,firebase;android studio,104,medium,4.3,307,low,Team E,4.4,3
+travel,c#;unreal,59,medium,3.2,839,medium,Team A,3.9,10
+manufacturing,react;java;kafka,150,low,3.5,217,medium,Team F,4.3,8
+e-commerce,unity;unreal;sql;c#,196,medium,3.3,921,low,Team H,4.0,1
+gaming,postgresql;rails;aws,320,high,3.0,780,low,Team B,4.6,3
+education,java;postgresql;kafka;spring;react,191,high,4.6,508,low,Team D,3.1,2
+travel,php;firebase;laravel;jquery,112,high,4.2,329,low,Team C,3.8,9
+real estate,golang;kubernetes;react,29,medium,4.1,196,low,Team G,3.3,1
+e-commerce,azure;.net,196,medium,4.3,136,high,Team D,4.1,6
+logistics,android studio;firebase;kotlin,178,high,3.5,971,high,Team D,3.1,1
+manufacturing,mysql;mongo,266,medium,3.2,716,low,Team F,5.0,7
+real estate,python;mongo;mysql;django,348,medium,4.5,524,high,Team C,4.0,4
+travel,sql;unreal,159,high,3.4,524,medium,Team D,4.5,2
+real estate,express;node;vue;redis,309,high,5.0,191,low,Team H,3.1,7
+real estate,firebase;android studio,37,low,3.1,799,medium,Team D,3.9,10
+finance,python;sql,24,medium,4.0,530,medium,Team I,4.1,3
+healthcare,react;nodejs,22,high,4.8,750,high,Team I,4.6,4
+e-commerce,html;css;javascript,15,low,4.0,300,low,Team I,3.9,2
+education,python;flask,35,medium,4.2,600,medium,Team I,4.0,3
+education,r;shiny,29,medium,4.2,560,medium,Team J,4.1,3
+e-commerce,html;css;js,19,low,3.8,320,low,Team J,3.7,2
+travel,python;flask,27,medium,4.3,590,medium,Team J,4.2,3
+logistics,c#;sql,28,high,3.8,850,high,Team I,4.3,5
+healthcare,java;maven,33,high,4.5,750,high,Team J,4.5,4
+logistics,c#;sql,30,medium,4.0,640,medium,Team J,4.1,3
+social media,nodejs;mongodb,21,low,4.0,400,low,Team J,3.8,2
+gaming,unity;animation,38,high,4.5,820,high,Team J,4.6,5
+manufacturing,python;sql,35,medium,4.1,610,medium,Team J,4.2,3
+travel,java;spring,32,medium,4.1,500,medium,Team I,4.1,3
+social media,react;graphql,18,low,4.4,420,low,Team I,3.8,2
+gaming,c++;unity,40,high,4.7,780,high,Team I,4.7,5
+manufacturing,r;tableau,27,medium,3.9,610,medium,Team I,4.2,4
+finance,python;sql,26,low,3.7,410,low,Team I,4.0,2
+education,html;css;js,19,low,4.1,390,low,Team I,3.9,1
+travel,python;django,36,medium,4.3,650,medium,Team I,4.2,3
+logistics,c;sql,30,high,4.5,890,high,Team I,4.4,4
+healthcare,r,34,high,4.4,730,high,Team I,4.6,4
+gaming,python;pygame,33,high,4.6,820,high,Team I,4.5,5
+manufacturing,sql;excel,29,medium,4.1,610,medium,Team I,4.2,3
+
+
