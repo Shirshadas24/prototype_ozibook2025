@@ -2,6 +2,8 @@ import streamlit as st
 import requests
 
 st.set_page_config(page_title="AI Team Recommender", page_icon="🤖")
+
+
 st.title("Smart Project Assignment System")
 
 st.write("Fill in project details below to get a recommended team:")
@@ -13,10 +15,10 @@ with st.form("project_form"):
     delivery_time = st.slider("Delivery Time (days)", 7, 365, 15)
     project_complexity = st.selectbox("Complexity", ["low", "medium", "high"])
     client_rating = st.slider("Client Rating", 3.0, 5.0, 4.5, step=0.1)
-    project_size = st.slider("Project Size (person-hours)", 100, 1000, 400)
+    project_size = st.slider("Estimated Project Size (person-hours)", 100, 1000, 400)
     deadline_urgency = st.selectbox("Urgency", ["low", "medium", "high"])
     team_performance = st.slider("Team Performance", 3.0, 5.0, 4.0, step=0.1)
-    team_workload = st.slider("Current Team Workload", 0, 10, 2)
+    team_workload = st.slider("Additional load for this project ", 0, 10, 2)
 
     submitted = st.form_submit_button("Recommend ")
 
@@ -49,6 +51,7 @@ if submitted:
             f" **Alternate:** {result['alternate_team']} ({result['alternate_confidence']}%)"
             )
             
+
             if 'explanation' in result:
                 st.subheader("📊 Why this team?")
                 st.write("The following features contributed to the recommendation:")
@@ -58,6 +61,9 @@ if submitted:
                     impact = item['impact']
                     arrow = "🔺" if impact > 0 else "🔻"
                     st.write(f"{arrow} **{feature}** contributed with impact: `{impact}`")
+            if 'summary' in result:
+                st.subheader("🧠 Summary of Reasoning")
+                st.write(result['summary'])
 
         else:
             st.error("❌ Backend responded with error.")
