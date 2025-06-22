@@ -1,5 +1,7 @@
 # --- BACKEND: backend_app.py ---
 from flask import Flask, request, jsonify
+from flask_cors import CORS
+
 import pandas as pd
 import joblib
 import os
@@ -17,6 +19,7 @@ from imblearn.over_sampling import SMOTE
 from sklearn.impute import SimpleImputer
 
 app = Flask(__name__)
+CORS(app)
 
 # Setup paths
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -72,9 +75,7 @@ X = pd.concat([
 ], axis=1)
 
 y = df['team_encoded']
-# X_train, X_test, y_train, y_test = train_test_split(
-#     X, y, test_size=0.2, stratify=y, random_state=42
-# )
+
 
 imputer = SimpleImputer(strategy='mean')
 X_imputed = imputer.fit_transform(X)
@@ -86,13 +87,11 @@ X_train, X_test, y_train, y_test = train_test_split(
     X_resampled, y_resampled, test_size=0.2, stratify=y_resampled, random_state=42
 )
 
-# model = RandomForestClassifier(n_estimators=100, random_state=42)
 model = XGBClassifier(eval_metric='mlogloss', learning_rate= 0.3, max_depth= 5, n_estimators= 150, subsample= 0.8)
 
 model.fit(X_train, y_train)
 y_pred = model.predict(X_test)
 
-# y_pred = cross_val_predict(model, X, y, cv=5)
 
 # Compute evaluation metrics
 accuracy = accuracy_score(y_test, y_pred)
