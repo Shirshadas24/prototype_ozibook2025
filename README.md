@@ -161,6 +161,5 @@ project-root/
 ---
 ## 👥 Team Members
 
-- **Shirsha Das** – Machine Learning, Backend, Feature Engineering, SHAP Analysis  , Frontend
-- **Pritam Kumar Roy** –  Machine Learning, Feature Engineering, SHAP Analysis  , Presentation
+ **Shirsha Das** , **Pritam Kumar Roy** 
  
