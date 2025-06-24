@@ -149,5 +149,5 @@ project-root/
 ---
 ## 👥 Team Members
 
- [**Shirsha Das**](https://github.com/Shirshadas24) , [**Pritam Kumar Roy**](https://github.com/Pritam216) 
+ [**Shirsha Das**](https://shirshadas.vercel.app/) , [**Pritam Kumar Roy**](https://pritam-kumar-roy.vercel.app/)
  
