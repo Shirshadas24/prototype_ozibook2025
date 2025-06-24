@@ -138,7 +138,7 @@ const SmartProjectForm = () => {
       <Typography gutterBottom>Team Performance: {teamPerformance}</Typography>
       <Slider value={teamPerformance} onChange={(e, val) => setTeamPerformance(val)} min={3} max={5} step={0.1} />
 
-      <Typography gutterBottom>Current Team Workload: {teamWorkload}</Typography>
+      <Typography gutterBottom>Workload Increase: {teamWorkload}</Typography>
       <Slider value={teamWorkload} onChange={(e, val) => setTeamWorkload(val)} min={0} max={10} step={1} />
 
       <Button variant="contained" color="primary" fullWidth onClick={handleSubmit}>
