@@ -82,9 +82,9 @@ This system predicts the **best-fit team** for a project using machine learning 
 
 
 ---
-![image](https://github.com/user-attachments/assets/2808c1ce-c1de-4157-8173-dd585db5da06)
-![image](https://github.com/user-attachments/assets/cc407044-e564-4379-a22d-ea6288b64679)
-![image](https://github.com/user-attachments/assets/96410c81-4035-4ad6-8d7b-66f3322feff7)
+![image](https://github.com/user-attachments/assets/619a1e69-7a02-4f65-88fc-b3457113667c)
+![image](https://github.com/user-attachments/assets/af67e9d1-751a-444a-9583-06f35a9519a1)
+![image](https://github.com/user-attachments/assets/db41c2c2-90c6-4c05-a5a3-e57506c2dc98)
 
 
 ## ⚠️ Disclaimer
