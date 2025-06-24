@@ -4,18 +4,20 @@ A full-stack AI-powered web application that recommends the most suitable softwa
 
 ---
 
-## 🔍 What It Does
+##  What It Does
 
 This system predicts the **best-fit team** for a project using machine learning and explains its reasoning using SHAP. It offers:
 
-- ✅ Suggested team with confidence
-- 🔄 Alternate team option
-- 📊 SHAP-based feature impact explanation
-- 🧠 Natural language summary of reasoning
+-  Suggested team with confidence
+-  Alternate team option
+-  SHAP-based feature impact explanation
+-  Natural language summary of reasoning
+ > The team was selected due to low complexity, high urgency, .NET skill, and finance domain.
+
 
 ---
 
-## 🧠 Machine Learning Model
+##  Machine Learning Model
 
 - **Model**: [XGBoost Classifier](https://xgboost.readthedocs.io/en/stable/)
 - **Hyperparameters**:
@@ -25,7 +27,7 @@ This system predicts the **best-fit team** for a project using machine learning 
   - `subsample`: 0.8  
 - **Data Balancing**: SMOTE (Synthetic Minority Over-sampling)
 - **Multi-class Strategy**: Softmax for multi-team classification
-- **Cross-Validation**: 5-fold used for metric evaluation
+
 
 ---
 
@@ -40,29 +42,16 @@ This system predicts the **best-fit team** for a project using machine learning 
 
 ## ⚙️ Feature Engineering
 
-- 🔤 MultiLabelBinarizer: For multi-label `tech_stack`
-- 🔁 LabelEncoding: For `project_domain`, `complexity`, `urgency`, and `team`
-- 📐 MinMaxScaler: Normalization of `delivery_time` and `project_size`
-- ➕ Custom Features:
+-  MultiLabelBinarizer: For multi-label `tech_stack`
+-  LabelEncoding: For `project_domain`, `complexity`, `urgency`, and `team`
+-  MinMaxScaler: Normalization of `delivery_time` and `project_size`
+-  Custom Features:
   - Interactions like `team_workload * urgency`
-  - Outlier removal
   - Count of matching tech stack items with historical projects
 
 ---
 
-## 💡 Explainability with SHAP
-
-After prediction, SHAP is used to show:
-
-- 🔺 Positive contributing features
-- 🔻 Negative contributing features
-- 🧠 Human-readable reasoning summary, like:
-
-> The team was selected due to low complexity, high urgency, .NET skill, and finance domain.
-
----
-
-## 🔎 How It Works
+##  How It Works
 
 1. User inputs project info on frontend.
 2. Data sent to Flask backend via API.
@@ -73,23 +62,22 @@ After prediction, SHAP is used to show:
 4. Frontend displays prediction + explanation beautifully.
 
 
-## 💻 Frontend (React.js)
+##  Frontend (React.js)
 
-- 🎨 Gradient background (black → gray → white)
-- 🔲 Transparent form and output cards
-- ✅ Sliders with upper limits
-- 📋 Form fields:
+-  Transparent form and output cards
+-  Sliders with upper limits
+-  Form fields:
   - Domain, tech stack, delivery time, complexity, urgency, project size, rating, performance, workload
 
 ---
 
-## 📦 Tech Stack
+##  Tech Stack
 
 | Layer     | Technology                            |
 |-----------|----------------------------------------|
 | Frontend  | React.js, Tailwind CSS                 |
 | Backend   | Python, Flask, Flask-CORS              |
-| ML Model  | TensorFlow, Scikit-learn, XGBoost      |
+| ML Model  | Scikit-learn, XGBoost                  |
 | Explain   | SHAP                                   |
 
 
@@ -105,7 +93,7 @@ The dataset used in this project was synthetically generated using AI tools and 
 
 ## 🔧 Setup Instructions
 
-### 🖥 Backend Setup
+###  Backend Setup
 
 ```bash
 cd backend
@@ -114,7 +102,7 @@ venv\Scripts\activate  # or source venv/bin/activate on Mac/Linux
 pip install -r requirements.txt
 python backend_app.py
 ```
-### 🌐 Frontend Setup
+###  Frontend Setup
 ```bash
 cd frontend
 npm install
@@ -151,7 +139,7 @@ project-root/
 ├── LICENSE
 └── README.md
 ```
-## 🚀 Future Scope
+##  Future Scope
 
 - Enhance ML model using advanced architectures like BERT or Graph Neural Networks (GNNs).
 - Add support for dynamic real-time project allocation using live team workload APIs.
@@ -161,5 +149,5 @@ project-root/
 ---
 ## 👥 Team Members
 
- **Shirsha Das** , **Pritam Kumar Roy** 
+ [**Shirsha Das**](https://github.com/Shirshadas24) , [**Pritam Kumar Roy**](https://github.com/Pritam216) 
  
