@@ -147,7 +147,5 @@ project-root/
 - Integrate login & role-based dashboards for project managers and teams.
 - Expand dataset with more real-world project scenarios to improve generalization.
 ---
-## 👥 Team Members
 
- [**Shirsha Das**](https://shirshadas.vercel.app/) , [**Pritam Kumar Roy**](https://pritam-kumar-roy.vercel.app/)
  
